@@ -1,6 +1,6 @@
 Welcome to the homepage of Sinnu Susan Thomas  !!
 
-![GitHub Logo](sinnu.jpg)
+![](sinnu.jpg =100x20)
 
 
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
