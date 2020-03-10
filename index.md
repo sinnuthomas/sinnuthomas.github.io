@@ -4,7 +4,6 @@
 
 <p>Assistant Professor<br>
 Indian Institute of Information Technology and Management Kerala<br>
-IIITM-K Building<br>
 Techno park Campus<br>
 Trivandrum<br>
 Kerala<br> 
