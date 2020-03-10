@@ -1,5 +1,10 @@
 Welcome to the homepage of Sinnu Susan Thomas  !!
 
+IMG-20191020-WA0104.jpg
+
+![GitHub Logo](IMG-20191020-WA0104.jpg)
+Format: ![Alt Text](url)
+
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
