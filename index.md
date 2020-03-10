@@ -8,8 +8,8 @@ IIITM-K Building<br>
 Techno park Campus<br>
 Trivandrum<br>
 Kerala<br> 
-India<br>
-695581</p> 
+India-695581</p>
+
 
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
