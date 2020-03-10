@@ -1,5 +1,7 @@
 Welcome to the homepage of Sinnu Susan Thomas  !!
 
+<img src="sinnu.jpg" width="200">
+
 ![](sinnu.jpg =100x20)
 
 
