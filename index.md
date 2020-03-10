@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-title: Welcome to the homepage of Sinnu Susan Thomas  !!
+Welcome to the homepage of Sinnu Susan Thomas  !!
 
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
