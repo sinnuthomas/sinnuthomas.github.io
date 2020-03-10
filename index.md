@@ -1,4 +1,4 @@
-## Welcome to the homepage of Sinnu Susan Thomas  !!
+## Sinnu Susan Thomas
 
 <img src="sinnu.jpg" width="200">
 
