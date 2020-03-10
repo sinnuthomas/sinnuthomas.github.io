@@ -1,4 +1,4 @@
-## Sinnu Susan Thomas
+<h1>Sinnu Susan Thomas</h1> 
 
 <img src="sinnu.jpg" width="200">
 
