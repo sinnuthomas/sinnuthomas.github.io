@@ -2,9 +2,7 @@
 
 <img src="sinnu.jpg" width="200">
 
-| | | |
-|-|-|-|
-|  | _<p>Assistant Professor<br>
+<t>Assistant Professor<br>
 >>>>Indian Institute of Information Technology and Management Kerala<br>
 >>>>Techno park Campus<br>
 >>>>Trivandrum<br>
