@@ -24,9 +24,11 @@ My Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”,
 * Summer Internship 2020
   <br/><br/>
 Summer internship program aims at introducing undergraduate and postgraduate students to research.  You will be working on Computer Vision problems in Linux platform, and using Python. The program gives you hands-on research training with various software tools. I expect quick learner and a hard worker to join me.
-<br/><br/>
-Apply for internship only if you are completing B.Tech./B.E. 3rd year in April/May 2020. Students completing 2nd year, with exceptional academic performance and other achievements may also be considered. 
-  
+* Eligibility
+  <br/><br/>
+Students with good track record completing 2nd year or completing B.Tech./B.E. 3rd year program in April/May 2020 are encouraged to apply. 
+  <br/><br/>
+Students with good track record completing 1st year  Maters program in Mathematics/Statistics/Computer Science in April/May 2020 are also encouraged to apply. 
   
 
 ## News <h2> 
