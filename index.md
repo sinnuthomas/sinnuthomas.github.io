@@ -11,7 +11,8 @@
 I am hosted by Prof. François Baccelli. Before, I was a Simons postdoctoral fellow with him at the University of Texas at Austin, Texas, USA and a postdoctoral research associate with Prof. Martin Haenggi at the University of Notre Dame, Indiana, USA. Prior to that, I received my PhD in electrical engineering from the Indian Institute of Technology (IIT), Kanpur, where I was advised by Prof. Adrish Banerjee. 
 
 
-Sinnu Susan Thomas received the B.E. (Hons.) degree in Electronics and Communication Engineering from Rajasthan University Jaipur and the M.Tech. Degree in Communication Engineering from National Institute of Technology Karnataka Surathkal, and the PhD degree in Electrical Engineering from Indian Institute of Technology Kanpur. Her Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where she worked on summarizing videos based on the human visual perspective.
+Sinnu Susan Thomas received the B.E. (Hons.) degree in Electronics and Communication Engineering from [Rajasthan University Jaipur](https://www.uniraj.ac.in/)
+ and the M.Tech. Degree in Communication Engineering from National Institute of Technology Karnataka Surathkal, and the PhD degree in Electrical Engineering from Indian Institute of Technology Kanpur. Her Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where she worked on summarizing videos based on the human visual perspective.
 
 She was awarded with the Gandhian Young Technological Innovation Award 2018 and Best Thesis Award at CICT 2018. She was nominated for Ranjan Kumar Memorial award 2018 by IIT Kanpur and was a finalist for Falling Wall Labs, Leuven Belgium.
 
