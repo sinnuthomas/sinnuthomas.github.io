@@ -40,4 +40,4 @@ I am looking for enthusiastic Masters/PhD/PostDoc candidates to join my group wi
 
 *
 <br/><br/>
-Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential. – John Maxwell
+Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential. – John Maxwells
