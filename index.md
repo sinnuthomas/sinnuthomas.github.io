@@ -20,8 +20,16 @@ My Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”,
 * Bayesian Optimization for Industrial Applications
 * Machine Learning  
 
-You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Opportunities <h2> 
+* Summer Internship 2020
+  IIT Palakkad, has a summer internship program which aims at introducing undergraduate and postgraduate students to research so as to enthuse them, and to get them interested in a career in teaching and research. The program is for six-weeks and it combines hands-on research training with a variety of hardware and software analysis tools. 
+  
+  
 
+## News <h2> 
+  
+You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
