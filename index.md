@@ -11,7 +11,7 @@
 
 | - | - |
 |---|---|
-| I am text to the left  | ![Flowers](/sinnu.jpg) |
+| I am text to the left  | <img src="sinnu.jpg" width="200"> |
 | ![Flowers](/flowers.jpeg) | I am text to the right |
 
 
