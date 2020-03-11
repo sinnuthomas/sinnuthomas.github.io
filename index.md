@@ -1,6 +1,6 @@
 <h1>Sinnu Susan Thomas</h1> 
 
-<img src="sinnu.jpg" width="200">
+<img align="right" src="sinnu.jpg" width="200">
 
 &emsp;Assistant Professor<br>
 &emsp;Indian Institute of Information Technology and Management Kerala<br>
