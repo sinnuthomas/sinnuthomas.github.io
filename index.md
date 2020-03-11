@@ -3,7 +3,7 @@
 <img align="left" src="sinnu.jpg" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indian Institute of Information Technology and Management Kerala<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IIITMK<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techno park Campus<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
