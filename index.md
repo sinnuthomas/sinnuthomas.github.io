@@ -1,5 +1,3 @@
-<h1>Sinnu Susan Thomas</h1> 
-
 <img align="left" src="sinnu.jpg" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
