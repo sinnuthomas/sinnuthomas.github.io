@@ -11,12 +11,9 @@
 I am hosted by Prof. François Baccelli. Before, I was a Simons postdoctoral fellow with him at the University of Texas at Austin, Texas, USA and a postdoctoral research associate with Prof. Martin Haenggi at the University of Notre Dame, Indiana, USA. Prior to that, I received my PhD in electrical engineering from the Indian Institute of Technology (IIT), Kanpur, where I was advised by Prof. Adrish Banerjee. 
 
 
-Sinnu Susan Thomas received the B.E. (Hons.) degree in Electronics and Communication Engineering from [Rajasthan University Jaipur](https://www.uniraj.ac.in/)
- and the M.Tech. Degree in Communication Engineering from [National Institute of Technology Karnataka Surathkal](https://www.nitk.ac.in/), and the PhD degree in Electrical Engineering from Indian Institute of Technology Kanpur. Her Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where she worked on summarizing videos based on the human visual perspective.
-
-She was awarded with the Gandhian Young Technological Innovation Award 2018 and Best Thesis Award at CICT 2018. She was nominated for Ranjan Kumar Memorial award 2018 by IIT Kanpur and was a finalist for Falling Wall Labs, Leuven Belgium.
-
-She was working at Viswajyothi College of Engineering and Technology Muvattupuzha and subsequently worked as a Post Doctoral Research Associate with Department of Electrical Engineering KU Leuven Belgium in collaboration with FORD Innovation and Research Centre Germany and USA. During postdoc, she worked on designing front suspension for Mac-Pherson Architecture and studied the behaviour of massive stars in space using Bayesian Optimization.
+I received the B.E. (Hons.) degree in Electronics and Communication Engineering from [Rajasthan University Jaipur](https://www.uniraj.ac.in/)
+ and the M.Tech. Degree in Communication Engineering from [National Institute of Technology Karnataka Surathkal](https://www.nitk.ac.in/), and the PhD degree in Electrical Engineering from [Indian Institute of Technology Kanpur](https://iitk.ac.in/). Her Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where she worked on summarizing videos based on the human visual perspective.
+She was working at [Viswajyothi College of Engineering and Technology Muvattupuzha](https://vjcet.org/#/) and subsequently worked as a Post Doctoral Research Associate with [Department of Electrical Engineering KU Leuven Belgium] (https://homes.esat.kuleuven.be/~mblaschk/) in collaboration with [FORD Innovation and Research Centre Germany](https://www.ford.de/) and USA. During postdoc, she worked on designing front suspension for Mac-Pherson Architecture and studied the behaviour of massive stars in space using Bayesian Optimization.
 
 Her interest lies in Bayesian Optimization for industrial applications, computer vision and multimedia signal processing.
 
