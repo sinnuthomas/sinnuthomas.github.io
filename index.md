@@ -9,8 +9,6 @@
 &emsp;Kerala<br> 
 &emsp;India-695581</p>
 
-|  |  |
-|  |  |
 | <img src="sinnu.jpg" width="200">   |I am text to the right |
 
 
