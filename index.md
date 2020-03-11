@@ -9,6 +9,11 @@
 &emsp;Kerala<br> 
 &emsp;India-695581</p>
 
+| - | - |
+|---|---|
+| I am text to the left  | ![Flowers](/sinnu.jpg) |
+| ![Flowers](/flowers.jpeg) | I am text to the right |
+
 
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
