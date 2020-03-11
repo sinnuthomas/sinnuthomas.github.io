@@ -14,7 +14,7 @@ Before that, I received the PhD degree in Electrical Engineering from [Indian In
 <br/><br/>
 My Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where I worked on summarizing videos based on the human visual perspective. During postdoc, I worked on designing front suspension for Mac-Pherson Architecture and studied the behaviour of massive stars in space using Bayesian Optimization. 
 
-# Research Interests <h1> tag
+## Research Interests <h2> tag
 My interest lies in Bayesian Optimization for industrial applications, computer vision and multimedia signal processing.
 
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
