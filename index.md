@@ -7,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techno park Campus<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695581
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695581<br> 
 
 
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
