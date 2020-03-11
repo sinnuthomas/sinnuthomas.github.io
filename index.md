@@ -3,11 +3,11 @@
 <img align="left" src="sinnu.jpg" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
-&emsp;Indian Institute of Information Technology and Management Kerala<br>
-&emsp;Techno park Campus<br>
-&emsp;Trivandrum<br>
-&emsp;Kerala<br> 
-&emsp;India-695581</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indian Institute of Information Technology and Management Kerala<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techno park Campus<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695581</p>
 
 
 You can use the [editor on GitHub](https://github.com/sinnuthomas/sinnuthomas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
