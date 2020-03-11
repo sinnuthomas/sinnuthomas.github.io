@@ -34,4 +34,4 @@ Summer internship program aims at introducing undergraduate and postgraduate stu
 
 
 ## News <h2> 
-*(February 2020) Joined as a Assistant Professor at IIITMK, India . 
+* (February 2020) Joined as a Assistant Professor at IIITMK, India . 
