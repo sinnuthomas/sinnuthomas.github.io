@@ -14,13 +14,13 @@ Before that, I received the PhD degree in Electrical Engineering from [Indian In
 <br/><br/>
 My Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where I worked on summarizing videos based on the human visual perspective. During postdoc, I worked on designing front suspension for Mac-Pherson Architecture and studied the behaviour of massive stars in space using Bayesian Optimization. 
 
-## Research Interests <h2> 
+## Research Interests
 * Computer Vision
 * Multimedia Signal Processing
 * Bayesian Optimization for Industrial Applications
 * Machine Learning  
 
-## Opportunities <h2> 
+## Opportunities
 * **Summer Internship 2020**
   <br/><br/>
 Summer internship program aims at introducing undergraduate and postgraduate students to research.  You will be working on Computer Vision problems in Linux platform, and using Python. The program gives you hands-on research training with various software tools. I expect quick learner and a hard worker to join me.
@@ -34,5 +34,5 @@ Summer internship program aims at introducing undergraduate and postgraduate stu
   <br/><br/>
 I am looking for enthousiastic Masters/PhD candidates to join my group with good mathematical and programming skills.
 
-## News <h2> 
+## News
 * (February 2020) Joined as a Assistant Professor at IIITMK, India . 
