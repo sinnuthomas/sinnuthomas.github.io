@@ -38,6 +38,6 @@ I am looking for enthusiastic Masters/PhD/PostDoc candidates to join my group wi
 ## News
 * (February 2020) Joined as a Assistant Professor at IIITMK, India . 
 
-*
+-
 <br/><br/>
 Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential. – John Maxwells
