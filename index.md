@@ -29,7 +29,7 @@ Summer internship program aims at introducing undergraduate and postgraduate stu
   Students with good track record completing 2nd year or completing B.Tech./B.E. 3rd year program in April/May 2020 are     encouraged to apply. Students with good track record completing 1st year  Maters program in Mathematics/Statistics/Computer Science in April/May 2020 are also encouraged to apply. 
   * Selection Process
   <br/><br/>
-   You may mail me your resume and the selection will be made on the basis of their track record and aptitude for research.
+   You may mail me your resume and the selection will be made on the basis of the track record and aptitude for research.
    <br/><br/>
 * **Research Positions**
   <br/><br/>
