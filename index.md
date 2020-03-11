@@ -21,7 +21,7 @@ My Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”,
 * Machine Learning  
 
 ## Opportunities <h2> 
-* Summer Internship 2020
+* **Summer Internship 2020**
   <br/><br/>
 Summer internship program aims at introducing undergraduate and postgraduate students to research.  You will be working on Computer Vision problems in Linux platform, and using Python. The program gives you hands-on research training with various software tools. I expect quick learner and a hard worker to join me.
   * Eligibility
@@ -30,7 +30,7 @@ Summer internship program aims at introducing undergraduate and postgraduate stu
   * Selection Process
   <br/><br/>
    You may mail me your resume and the selection will be made on the basis of their track record and aptitude for research. 
-* Research Positions
+* **Research Positions**
   <br/><br/>
 I am looking for enthousiastic Masters/PhD candidates to join my group with good mathematical and programming skills.
 
