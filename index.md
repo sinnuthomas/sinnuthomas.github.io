@@ -33,7 +33,7 @@ Summer internship program aims at introducing undergraduate and postgraduate stu
    <br/><br/>
 * **Research Positions**
   <br/><br/>
-I am looking for enthusiastic Masters/PhD candidates to join my group with good mathematical and programming skills.
+I am looking for enthusiastic Masters/PhD/PostDoc candidates to join my group with good mathematical and programming skills.
 
 ## News
 * (February 2020) Joined as a Assistant Professor at IIITMK, India . 
