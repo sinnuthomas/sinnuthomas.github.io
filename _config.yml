@@ -2,5 +2,5 @@ github:
 is_project_page: false
 theme: jekyll-theme-cayman
 name: Sinnu Susan Thomas
-title: Sinnu Susan Thomas
-subtitle: <h1>Publications</h1>
+title                    : "Sinnu Susan Thomas / Publications"
+title_separator          : "-"
