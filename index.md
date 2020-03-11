@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695581<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstdotlastnameatiiitmkdotacdotin<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstname dot lastname at iiitmk dot ac dot in<br> 
 <br/><br/>
 I work as an Assistant Professor at Indian Institute of Information Technology and Management Kerala. Prior to that, I was hosted as a Post Doctoral Research Associate by [Prof. Matthew Blaschko](https://homes.esat.kuleuven.be/~mblaschk/)  at [Department of Electrical Engineering KU Leuven Belgium](https://www.esat.kuleuven.be/psi) in collaboration with [FORD Innovation and Research Centre Germany](https://www.ford.de/) and [USA](https://www.ford.com/). Prior to that, I was working at [Viswajyothi College of Engineering and Technology Muvattupuzha, Kerala, India](https://vjcet.org/#/).  
 <br/><br/>
