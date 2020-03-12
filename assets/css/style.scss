@@ -1,11 +1,29 @@
----
----
-
-@import "{{ site.theme }}";
-
-header {
-  display: none;
+body  {
+  background-color: azure;
+  font-family: cursive;
 }
-footer {
-  display: none;
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  white-space: nowrap;
+}
+h1 {
+  display: inline-block;
+  font-size: 30px;
+  text-decoration: underline;
+}
+nav {
+  display: inline-block;
+}
+ul {
+  color: darkslategray;
+}
+
+li {
+  display: inline;
+  font-size: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
