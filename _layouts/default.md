@@ -18,7 +18,7 @@
             <a href="{{site.baseurl}}/students">Students</a>
         </ul>
     </nav>
-    <a class="title a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
+    <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
 </header>
       
   
