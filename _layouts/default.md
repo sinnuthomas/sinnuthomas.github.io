@@ -5,7 +5,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <span style="display:inline-block; width: 100px;"></span>
   <title>{{ page.title }} - {{site.title}}</title>
 </head>
 
@@ -13,6 +12,7 @@
 <header>
     <nav>
         <ul>
+            <span style="display:inline-block; width: 100px;"></span>
             <a href="{{site.baseurl}}/">Home</a>
             <a href="{{site.baseurl}}/publications">Publications</a>
             <a href="{{site.baseurl}}/teaching">Teaching</a>
