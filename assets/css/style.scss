@@ -1,24 +1,33 @@
-.header {
-  background-color: #00001a;
-  padding: 0 1em;
+header {
+    background-color: #00001a;
+    padding: 0px 10px;
+    box-sizing: border-box;
 }
-.nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
- 
+
+h1 {
+    color: white;
+    margin: 5px 0;
+    padding: 0;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
 }
 
 ul {
-  list-style-type: none;
+    list-style-type: none;
 }
 
-.header h1 {
-  color: #ffffff;
-  font-size: 15px;
-}
-
-.nav li {
-  color: #ffffff;
-  display: inline-block;
+ul li {
+    display: inline-block;
+    color: white;
+    margin-left: 20px;
 }
