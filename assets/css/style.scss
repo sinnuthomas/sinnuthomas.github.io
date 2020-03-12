@@ -1,29 +1,24 @@
-body  {
-  background-color: azure;
-  font-family: cursive;
+.header {
+  background-color: #00001a;
+  padding: 0 1em;
 }
-header {
+.nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
-  white-space: nowrap;
-}
-h1 {
-  display: inline-block;
-  font-size: 30px;
-  text-decoration: underline;
-}
-nav {
-  display: inline-block;
-}
-ul {
-  color: darkslategray;
+ 
 }
 
-li {
-  display: inline;
-  font-size: 30px;
-  margin-left: 10px;
-  margin-right: 10px;
+ul {
+  list-style-type: none;
+}
+
+.header h1 {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.nav li {
+  color: #ffffff;
+  display: inline-block;
 }
