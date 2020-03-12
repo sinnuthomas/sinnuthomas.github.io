@@ -10,12 +10,15 @@
 
 <body>
 <header>
-  <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1>
+  <nav>
+    <ul>
+      <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1>
         <a href="{{site.baseurl}}/">Home</a>&nbsp;
         <a href="{{site.baseurl}}/publications">Publications</a>&nbsp;
         <a href="{{site.baseurl}}/teaching">Teaching</a>&nbsp;
         <a href="{{site.baseurl}}/students">Students</a>
+    </ul>
+  </nav>
 </header>
-      
-  
+ 
   {{ content }}
