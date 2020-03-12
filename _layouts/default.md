@@ -13,11 +13,10 @@
   <h1>Sinnu</h1>
     <nav>
         <ul>
-          <li><a href="{{site.baseurl}}/">Home</a></li>
-          <li><a href="{{site.baseurl}}/publications">Publications</a></li>
-          <li><a href="{{site.baseurl}}/teaching">Teaching</a></li>
-          <li><a href="{{site.baseurl}}/students">Students</a></li>
           <a href="{{site.baseurl}}/">Home</a>&nbsp;
+          <a href="{{site.baseurl}}/publications">Publications</a>&nbsp;
+          <a href="{{site.baseurl}}/teaching">Teaching</a>&nbsp;
+          <a href="{{site.baseurl}}/students">Students</a>
         </ul>
     </nav>
 </header>
