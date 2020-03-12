@@ -7,7 +7,6 @@ tags:
 - other
 categories:
 - other
-twitter_text: 'Hello World'
 ---
 <img align="left" src="sinnu.jpg" width="200">
 
