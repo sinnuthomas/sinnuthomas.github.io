@@ -12,7 +12,7 @@
 <header>
     <div class="left">
         <h1>
-        Sinnu S. Thomas
+        Sinnu
         </h1>
     </div>
     <div class="right">
