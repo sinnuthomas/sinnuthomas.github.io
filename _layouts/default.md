@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} - {{site.title}}</title>
+  <title>{{ page.title }}  {{site.title}}</title>
   <link rel="stylesheet" href="{{site.baseurl}}/css/main.css">
 </head>
 
