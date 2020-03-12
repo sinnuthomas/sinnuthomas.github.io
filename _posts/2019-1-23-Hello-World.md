@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Genealogy"
-date: 2019-01-23 10:30:00
 image: '/assets/img/post-image.png'
 description: 'Welcome world, here I come.'
 tags:
