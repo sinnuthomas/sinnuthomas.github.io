@@ -13,7 +13,7 @@ sass:
 exclude:
 - README.md
 
-highlighter: rouge
+highlighter: pygments
 markdown: kramdown
 ### exclude the instructions / write-up in the README.md
 
