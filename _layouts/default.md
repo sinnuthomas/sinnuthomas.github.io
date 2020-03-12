@@ -1,5 +1,5 @@
 ---
-layout: name
+layout: jekyll-theme-cayman
 ---
 <!DOCTYPE html>
 <html>
