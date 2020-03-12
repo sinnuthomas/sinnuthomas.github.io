@@ -5,7 +5,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <span style="display:inline-block; width: 1;"></span>
+  <span style="display:inline-block; width: 20px;"></span>
   <title>{{ page.title }} - {{site.title}}</title>
 </head>
 
