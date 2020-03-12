@@ -12,7 +12,6 @@
 <header>
     <nav>
         <ul>
-             <a href={{ page.filename }}>{{ page.title }}</a>
              <a href="{{site.baseurl}}/">Home</a>
              <a href="{{site.baseurl}}/publications">Publications</a>
              <a href="{{site.baseurl}}/teaching">Teaching</a>
