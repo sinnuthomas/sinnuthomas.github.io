@@ -1,6 +1,7 @@
 ### your site title here
-github: is_project_page: false
+github:
+  is_project_page: false
 theme: jekyll-theme-cayman
+name: Sinnu Susan Thomas
 title: Sinnu Susan Thomas
 permalink: /:title
-baseurl: ""
