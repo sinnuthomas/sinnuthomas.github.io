@@ -76,7 +76,7 @@ nav {
             display: inline-block;
             margin-left: 0.5em;
             &:before {
-                content: ' /';
+                content: &nbsp;
                 color: $h-color;
             }
         }
