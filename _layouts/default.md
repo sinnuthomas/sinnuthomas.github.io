@@ -1,4 +1,4 @@
-----
+---
 ---
 <!DOCTYPE html>
 <html>
@@ -10,19 +10,16 @@
 
 <body>
 <header>
-    <div class="left">
-        <h1>
-        Sinnu
-        </h1>
-    </div>
-    <div class="right">
+    <nav>
         <ul>
-            <a href="{{site.baseurl}}/">Home</a>
-          <a href="{{site.baseurl}}/publications">Publs</a>
-          <a href="{{site.baseurl}}/teaching">Teachi</a>
-          <a href="{{site.baseurl}}/students">Studes</a>
+             <a href="{{site.baseurl}}/">Home</a>
+             <a href="{{site.baseurl}}/publications">Publications</a>
+             <a href="{{site.baseurl}}/teaching">Teaching</a>
+             <a href="{{site.baseurl}}/students">Students</a>
         </ul>
-    </div>
-    <div class="clear"></div>
-</header>  
+    </nav>
+    <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
+</header>
+      
+  
   {{ content }}
