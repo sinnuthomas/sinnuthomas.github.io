@@ -12,10 +12,10 @@
 <header>
     <nav>
         <ul>
-            </p><a href="{{site.baseurl}}/">Home</a>
-            </p><a href="{{site.baseurl}}/publications">Publications</a>
-            </p><a href="{{site.baseurl}}/teaching">Teaching</a>
-            </p><a href="{{site.baseurl}}/students">Students</a>
+            <dd><a href="{{site.baseurl}}/">Home</a>
+            <dd><a href="{{site.baseurl}}/publications">Publications</a>
+            <dd><a href="{{site.baseurl}}/teaching">Teaching</a>
+            <dd><a href="{{site.baseurl}}/students">Students</a>
         </ul>
     </nav>
     <a class="title-a" href="{{site.baseurl}}/"><h1 class="title">{{site.title}}</h1></a>
