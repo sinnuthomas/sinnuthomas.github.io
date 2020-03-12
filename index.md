@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Home
-permalink: /home/
 ---
 
 <img align="left" src="sinnu.jpg" width="200">
