@@ -12,7 +12,7 @@
 <header>
     <nav>
         <p style="text-align: center; background-color: white;">
-             <a href="{{site.baseurl}}/">Home</a>|
+             <a href="{{site.baseurl}}/">Home</a>&nbsp;
              <a href="{{site.baseurl}}/publications">Publications</a>|
              <a href="{{site.baseurl}}/teaching">Teaching</a>|
              <a href="{{site.baseurl}}/students">Students</a>
