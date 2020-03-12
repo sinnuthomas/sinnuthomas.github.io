@@ -12,7 +12,6 @@
 <header>
     <nav>
         <ul>
-            <span style="display:inline-block; width: 100px;"></span>
             <a href="{{site.baseurl}}/">Home</a>
             <a href="{{site.baseurl}}/publications">Publications</a>
             <a href="{{site.baseurl}}/teaching">Teaching</a>
