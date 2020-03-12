@@ -5,7 +5,7 @@ title: Sinnu Susan Thomas
 permalink: /:title
 
 baseurl: ""
-theme: jekyll-theme-cayman
+
 sass: 
   style: compressed
 
