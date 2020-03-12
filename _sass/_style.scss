@@ -44,19 +44,6 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
-h1:before {
-    content: "# ";
-}
-
-h2:before {
-    content: "## ";
-}
-h3:before{
-    content: "### ";
-}
-h4:before{
-    content: "#### ";
-}
 a {
     color: $h-color;
     text-decoration: none;
