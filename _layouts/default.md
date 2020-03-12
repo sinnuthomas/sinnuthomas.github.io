@@ -10,16 +10,19 @@
 
 <body>
 <header>
-  <h1>Sinnu</h1>
-    <nav>
+    <div class="left">
+        <h1>
+        Sinnu S. Thomas
+        </h1>
+    </div>
+    <div class="right">
         <ul>
-          <a href="{{site.baseurl}}/">Home</a>&nbsp;
-          <a href="{{site.baseurl}}/publications">Publications</a>&nbsp;
-          <a href="{{site.baseurl}}/teaching">Teaching</a>&nbsp;
-          <a href="{{site.baseurl}}/students">Students</a>
+            <li>Home</li>
+            <li>Publications</li>
+            <li>Teaching</li>
+            <li>Students</li>
         </ul>
-    </nav>
-</header>
-      
-  
+    </div>
+    <div class="clear"></div>
+</header>  
   {{ content }}
