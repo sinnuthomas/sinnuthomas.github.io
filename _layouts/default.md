@@ -17,9 +17,9 @@
     </div>
     <div class="right">
         <ul>
-            <a href="{{site.baseurl}}/">Home</a>&nbsp;
-          <a href="{{site.baseurl}}/publications">Publications</a>&nbsp;
-          <a href="{{site.baseurl}}/teaching">Teaching</a>&nbsp;
+            <a href="{{site.baseurl}}/">Home</a>
+          <a href="{{site.baseurl}}/publications">Publications</a>
+          <a href="{{site.baseurl}}/teaching">Teaching</a>
           <a href="{{site.baseurl}}/students">Students</a>
         </ul>
     </div>
