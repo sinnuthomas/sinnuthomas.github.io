@@ -1,13 +1,16 @@
 ---
 layout: post
-title: "Hello World"
+title: "Genealogy"
 date: 2019-01-23 10:30:00
+image: '/assets/img/post-image.png'
 description: 'Welcome world, here I come.'
 tags:
 - other
 categories:
 - other
+twitter_text: 'Hello World'
 ---
+
 <img align="left" src="sinnu.jpg" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
