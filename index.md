@@ -1,5 +1,5 @@
 <img align="left" src="sinnu.jpg" width="200">
-<p>CONTENT</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IIITMK<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techno park Campus<br>
