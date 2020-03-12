@@ -10,7 +10,7 @@
 
 <body>
 <header>
-  <h1>Sinnu S. Thomas</h1>
+  <h1>Sinnu</h1>
     <nav>
         <ul>
         <a href="{{site.baseurl}}/">Home</a>&nbsp;
