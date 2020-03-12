@@ -1,4 +1,5 @@
 ---
+layout: name
 ---
 <!DOCTYPE html>
 <html>
