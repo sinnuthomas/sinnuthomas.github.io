@@ -1,17 +1,12 @@
 ### your site title here
-
+github: is_project_page: false
+theme: jekyll-theme-cayman
 title: Sinnu Susan Thomas
 
 permalink: /:title
 
 baseurl: ""
 
-sass: 
-  style: compressed
-
-### exclude the instructions / write-up in the README.md
-exclude:
-- README.md
 
 highlighter: rouge
 markdown: kramdown
