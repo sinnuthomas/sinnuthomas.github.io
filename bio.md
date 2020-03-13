@@ -11,14 +11,14 @@ Before that, I received the PhD degree in Electrical Engineering from [Indian In
 My Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where I worked on summarizing videos based on the human visual perspective. During postdoc, I worked on designing front suspension for Mac-Pherson Architecture and studied the behaviour of massive stars in space using Bayesian Optimization. 
 <br/><br/>
 * **Awards**
-  <br/><br/>
+  <br/>
   * Finalist for Falling Wall Labs, Leuven Belgium 2019.
-  <br/><br/>
+  <br/>
   * Nominated for Ranjan Kumar Memorial award 2018 by IIT Kanpur.
-  <br/><br/>
-  * Best Thesis Award at CICT 2018
-   <br/><br/>
-   * Gandhian Young Technological Innovation Award 2018
-   <br/><br/>
-   * Best Student, St. Johns Senior Secondary School, Kota, Rajasthan, India 1996
-   <br/><br/>
+  <br/>
+  * Best Thesis Award at CICT 2018.
+   <br/>
+   * Gandhian Young Technological Innovation Award 2018.
+   <br/>
+   * Best Student, St. Johns Senior Secondary School, Kota, Rajasthan, India 1996.
+   <br/>
