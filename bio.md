@@ -13,7 +13,6 @@ My Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”,
 * **Awards**
   <br/>
   * Finalist for Falling Wall Labs, Leuven Belgium 2019.
-  <br/>
   * Nominated for Ranjan Kumar Memorial award 2018 by IIT Kanpur.
   <br/>
   * Best Thesis Award at CICT 2018.
