@@ -10,7 +10,8 @@ Summer internship program aims at introducing undergraduate and postgraduate stu
   * Eligibility
   <br/><br/>
   Students with good track record completing 2nd year or completing B.Tech./B.E. 3rd year program or completing 1st year  Maters program in Mathematics/Statistics/Computer Science/Signal Processing in April/May 2020 are encouraged to apply.  
-  * Selection Process
+  <br/><br/>
+ * Selection Process
   <br/><br/>
    You may mail me your resume and the selection will be made on the basis of the track record and aptitude for research.
    <br/><br/>
