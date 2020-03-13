@@ -5,12 +5,15 @@ permalink: /publications/
 ---
 
 * **Journals**
-  1. S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,”in IEEE Transactions on Cybernetics (in Review), 2020.
-  1. S. S. Thomas; S. Gupta; Venkatesh K. S., “Context Driven Optimized Perceptual Video Summarization and Retrieval,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 10, pp. 3132-3145, Oct 2019.
-  * [4] S. S. Thomas; S. Gupta; Venkatesh K. S., “Event Detection on Roads Using Perceptual Video Summarization,” in IEEE Transactions on Intelligent Transportation Systems, vol. 19, no. 9, pp. 2944-2954, Sep 2018.
-  * [3] S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Video Summarization - a New Framework for Video Summarization,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 8, pp. 1790-1802, Aug 2017.
-  * [2] S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Synoptic View based Video Retrieval Using Metadata,” Springer Signal, Image and Video Processing, vol. 11, pp. 549-555, Mar 2017.
-  * [1] S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Synoptic View of Pixel, Object and Semantic Based Attributes of Video,” Elsevier Journal of Visual Communication and Image Representation, vol. 38, pp. 367-377, Jul 2016.
+<ol reversed>
+  <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,”in IEEE Transactions on Cybernetics (in Review), 2020.</li>
+  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Context Driven Optimized Perceptual Video Summarization and Retrieval,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 10, pp. 3132-3145, Oct 2019.</li>
+  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Event Detection on Roads Using Perceptual Video Summarization,” in IEEE Transactions on Intelligent Transportation Systems, vol. 19, no. 9, pp. 2944-2954, Sep 2018.</li>
+  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Video Summarization - a New Framework for Video Summarization,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 8, pp. 1790-1802, Aug 2017.</li>
+  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Synoptic View based Video Retrieval Using Metadata,” Springer Signal, Image and Video Processing, vol. 11, pp. 549-555, Mar 2017.</li>
+  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Synoptic View of Pixel, Object and Semantic Based Attributes of Video,” Elsevier Journal of Visual Communication and Image Representation, vol. 38, pp. 367-377, Jul 2016.</li>
+</ol>
+  
 
 * **Conferences**
   * [9] S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim;M. Blaschko,“Designing MacPherson Suspension Architectures using Bayesian Optimization,” 28th Belgian Dutch Conference on Machine Learning, Brussels, Belgium, Nov 6-8, 2019.
