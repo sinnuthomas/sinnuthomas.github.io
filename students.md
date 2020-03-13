@@ -7,7 +7,7 @@ permalink: /students/
   <br/>
   * Roshni Kamath, KU Leuven Belgium 2019 (in progress). 
   * Guillaume Lamine, KU Leuven Belgium 2019 (in progress).
-<br/>
+
 * **Undergraduate**
   <br/>  
   * Adriya P Shaji, Mahatma Gandhi University Kerala 2018.
