@@ -21,7 +21,7 @@ title: Home
 * Machine Learning  
 
 ## News
-* (February 2020) Joined as a Assistant Professor at IIITMK, India . 
+* [Feb 2020] Joined as a Assistant Professor at IIITMK, India. 
 
 <br/><br/>
 <p><small>Successful and unsuccessful people do not vary greatly in their abilities.They vary in their desires to reach their potential. – John Maxwell </small></p>
