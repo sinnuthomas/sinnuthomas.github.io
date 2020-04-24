@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<img align="left" src="sinnu.jpg" width="200">
+<img align="left" src="Sinnu.jpg" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IIITMK<br>
