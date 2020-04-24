@@ -3,7 +3,7 @@ layout: page
 title: Awards
 permalink: /awards/
 ---
-* ** **
+* **Awards **
   <br/>
   * Finalist for Falling Wall Labs, Leuven Belgium 2019.
   * Nominated for Ranjan Kumar Memorial Award 2018, IIT Kanpur.
