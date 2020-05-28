@@ -15,10 +15,10 @@ title: Home
 <br/><br/>
 
 ## Research Interests
-* Computer Vision
-* Multimedia Signal Processing
-* Bayesian Optimization for Industrial Applications
-* Machine Learning  
+* Computer Vision(https://en.wikipedia.org/wiki/Computer_vision)
+* Multimedia Signal Processing(https://en.wikipedia.org/wiki/Signal_processing)
+* Bayesian Optimization(https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
+* Machine Learning(https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
 * [Feb 2020] Joined as a Assistant Professor at IIITMK, India. 
