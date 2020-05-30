@@ -6,6 +6,8 @@ title: Home
 <img align="left" src="Sinnu.jpg" width="200">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image and Vision Computing Lab<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IIITMK<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techno park Campus<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
