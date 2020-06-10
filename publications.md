@@ -17,7 +17,7 @@ permalink: /publications/
 
 * **Conferences**
 <ol reversed>
-  <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim;M. Blaschko,“Designing MacPherson Suspension Architectures using Bayesian Optimization,” 28th Belgian Dutch Conference on Machine Learning, Brussels, Belgium, Nov 6-8, 2019.</li>
+  <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim;M. Blaschko,“[Designing MacPherson Suspension Architectures using Bayesian Optimization](http://ceur-ws.org/Vol-2491/paper104.pdf),” 28th Belgian Dutch Conference on Machine Learning, Brussels, Belgium, Nov 6-8, 2019.</li>
   <li>S. S. Thomas,“Perceptual Attributes in Video Summarization,” in 5th IEEE Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering , Gorakhpur, India, Nov 2-4, 2018.</li>
   <li>S. S. Thomas,“Video Summarization,” in IEEE International Conference on Information and Communication Technology, Jabalpur, India, Oct 26-28, 2018.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Video Summarization - a New Framework for Video Summarization,” in 21st IEEE International Symposium on Circuits and Systems, Florence, Italy, May 27-30 2018.</li>
