@@ -5,6 +5,7 @@ permalink: /students/
 ---
 * **Master's**
   <br/>
+  * Olivi T J, IIITMK 2020. 
   * Roshni Kamath, KU Leuven Belgium 2019 (in progress). 
   * Guillaume Lamine, KU Leuven Belgium 2019 (in progress).
 
