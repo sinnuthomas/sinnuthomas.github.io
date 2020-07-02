@@ -23,6 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
+* [Jul 2020] Recieved COVID19 Research Grant.  
 * [Feb 2020] Joined as a Assistant Professor at IIITMK, India. 
 
 <br/><br/>
