@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+  * Pattern Recognition (IIITMK)
   * Digital Image Processing (KTU)
   * Digital Signal Processing (MGU) 
   * Signals and Systems (IITK, MGU)
