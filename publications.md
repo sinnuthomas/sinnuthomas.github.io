@@ -5,8 +5,6 @@ permalink: /publications/
 ---
 
 * **Journals**
-<br/>
-Born in the educational hub of coaching institutes in India- [Kota, Rajasthan](https://kota.rajasthan.gov.in/content/raj/kota/en/home.html),
 <ol reversed>
   <li>A. M. Paul; S. S. Thomas, “[Multifaceted COVID-19 Outbreak](https://arxiv.org/pdf/2008.12127.pdf),” in IEEE Journal (in Review), 2020.</li>
   <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,” in IEEE Transactions on Cybernetics (in Review), 2020.</li>
