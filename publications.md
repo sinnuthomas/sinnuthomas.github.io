@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **Journals**
 <ol reversed>
-  <li>A. M. Paul; S. S. Thomas, “Multifaceted COVID-19 Outbreak,”in IEEE Journal (in Review), 2020.</li>
+  <li>A. M. Paul; S. S. Thomas, “Multifaceted COVID-19 Outbreak,”in IEEE Journal (in Review)[pdf](https://arxiv.org/abs/2008.12127), 2020.</li>
   <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,”in IEEE Transactions on Cybernetics (in Review), 2020.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Context Driven Optimized Perceptual Video Summarization and Retrieval,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 10, pp. 3132-3145, Oct 2019.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Event Detection on Roads Using Perceptual Video Summarization,” in IEEE Transactions on Intelligent Transportation Systems, vol. 19, no. 9, pp. 2944-2954, Sep 2018.</li>
