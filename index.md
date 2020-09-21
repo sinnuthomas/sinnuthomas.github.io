@@ -23,7 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Sep 2020] Tutorial at ICDL 2020, in London UK.  
+* [Sep 2020] Tutorial at [ICDL 2020](https://waset.org/development-and-learning-conference-in-october-2020-in-london), in London UK.  
 * [Jul 2020] Received COVID-19 Research Grant.  
 * [Feb 2020] Joined as a Assistant Professor at IIITMK, India. 
 
