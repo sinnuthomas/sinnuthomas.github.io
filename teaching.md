@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+  * Mathematics for Machine Learning (IIITMK)
   * Pattern Recognition (IIITMK)
   * Digital Image Processing (KTU)
   * Digital Signal Processing (MGU) 
