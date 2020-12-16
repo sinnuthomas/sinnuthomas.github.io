@@ -9,7 +9,7 @@ permalink: /opportunities/
 Internship positions aims at introducing undergraduate and postgraduate students to research. The position gives you hands-on research training with various software tools.  You will be working on Computer Vision problems in Linux platform, and using Python. Expect quick learning and hard working candidates to respond.
   * Eligibility
   <br/><br/>
-  Students with good track record completing 2nd year or completing B.Tech./B.E. 3rd year program or completing 1st year  Maters program in Mathematics/Statistics/Computer Science/Signal Processing are encouraged to apply. No short term commitments. 
+  Students with good track record completing 2nd year or completing B.Tech./B.E. 3rd year program or completing 1st year  Maters program in Mathematics/Statistics/Computer Science/Signal Processing are encouraged to apply. Students interested in working more than six months are welcome.
   <br/><br/>
   * Selection Process
   <br/><br/>
