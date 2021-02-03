@@ -23,6 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
+* [Jan 2021] Giving Tutorial at [IEEE IJCNN 2021](https://www.ijcnn.org/tutorials), in Shenzhen, China. 
 * [Oct 2020] Paper accpeted in NeurIPS Workshops 2020 on Dec 6-12, 2020 at Vancouver, Canada.
 * [Sep 2020] Giving Tutorial at [IEEE ICDL 2020](https://cdstc.gitlab.io/icdl-2020/), in Valparaíso, Chile.  
 * [Jul 2020] Received COVID-19 Research Grant.  
