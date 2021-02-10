@@ -1,15 +1,8 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Tutorials
+permalink: /tutorials/
 ---
-  * Mathematics for Machine Learning (IIITMK)
-  * Pattern Recognition (IIITMK)
-  * Digital Image Processing (KTU)
-  * Digital Signal Processing (MGU) 
-  * Signals and Systems (IITK, MGU)
-  * Circuit Theory (MGU)
-  * Digital Electronics (MGU, RTU)
-  * Introduction to Electronics Engineering (MGU, RTU)
-  * Electronics Engineering Labs (MGU, RTU)
-  * Communication Engineering Labs (MGU, RTU)
+  * [Design Solutions using Bayesian Optimization](https://www.ijcnn.org/tutorials), Tutorial presenting at The International Joint Conference on Neural Networks (IJCNN 2021), Shenzhen, China, Jul 2021.
+  * [Bayesian Optimization](https://cdstc.gitlab.io/icdl-2020/), Tutorial presented at IEEE International Conference on Development and Learningand Epigenetics Robotics (ICDL 2020), Valparaíso, Chile, Oct 2020.
+  * [Bayesian Optimization](http://coconet-conference.org/2019/?q=tutorials), Tutorial presented at International Conference on Computing and Network Communications(CoCoNet'19), Kerala, India, Dec 2019. 
