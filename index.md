@@ -9,10 +9,10 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image and Vision Computing Lab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KUDSIT(IIITMK)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Techno park Campus<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695581<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695317<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstname dot lastname at iiitmk dot ac dot in<br> 
 <br/><br/>
 
