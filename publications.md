@@ -13,7 +13,7 @@ permalink: /publications/
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Event Detection on Roads Using Perceptual Video Summarization,” in IEEE Transactions on Intelligent Transportation Systems, vol. 19, no. 9, pp. 2944-2954, Sep 2018.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Video Summarization - a New Framework for Video Summarization,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 8, pp. 1790-1802, Aug 2017.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Synoptic View based Video Retrieval Using Metadata,” Springer Signal, Image and Video Processing, vol. 11, pp. 549-555, Mar 2017.</li>
-  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Synoptic View of Pixel, Object and Semantic Based Attributes of Video,” Elsevier Journal of Visual Communication and Image Representation, vol. 38, pp. 367-377, Jul 2016.</li>
+  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Synoptic View of Pixel, Object and Semantic Based Attributes of Video,” Elsevier Journal of Visual Communication and Image Representation(**JVCIR**), vol. 38, pp. 367-377, Jul 2016.</li>
 </ol>
   
 
