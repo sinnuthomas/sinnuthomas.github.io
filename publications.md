@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **2021**
 <ol reversed>
-  <li>Edilson F. Arruda; Rodrigo e Alvim Alexandre; Marcelo D. Fragoso; João B. R. do val; S. S. Thomas, “ A Novel Stochastic Epidemic Model with Application to COVID-19,” in arXiv:2102.08213.</li>
+  <li>Edilson F. Arruda; Rodrigo e Alvim Alexandre; Marcelo D. Fragoso; João B. R. do val; S. S. Thomas, “ A Novel Stochastic Epidemic Model with Application to COVID-19,” in arXiv:2102.08213, 2021.</li>
 </ol>
 
 * **2020**
