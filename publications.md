@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **2021**
 <ol reversed>
-  <li>O. T. James; S. S. Thomas, “ Bayesian Optimized Event Based Epidemic Modeling in India,” in arXiv:2010.01280, 2020.</li>
+  <li>Edilson F. Arruda; Rodrigo e Alvim Alexandre; Marcelo D. Fragoso; João B. R. do val; S. S. Thomas, “ A Novel Stochastic Epidemic Model with Application to COVID-19,” in arXiv:2102.08213.</li>
 </ol>
 
 * **2020**
@@ -49,19 +49,5 @@ permalink: /publications/
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “An Energy Minimization Approach for Automatic Video Shot and Scene Boundary Detection,” in 2014 10th IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, Kitakyushu, Japan, August 27-29 2014, pp. 297-300.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Non User Interaction Content Summarization,” in 2014 19th IEEE International Conference on Digital Signal Processing, Hong Kong, August 20-23 2014, pp. 286-290.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “AUTOENSUM: Automated Enhanced Summary for Multiple Interacting Objects,” in 2014 15th IEEE International Conference Multimedia and Expo, Chengdu, China, July 14-18 2014, pp. 1-6.</li>
-</ol>
-  
+</ol> 
 
-* **Conferences**
-<ol reversed>
-  <li>S. Mukherjee; S. S. Thomas, “Deep Unfolding Approaches for Sparse Dictionary Learning in Video Summarization,” 34th Conference on Neural Information Processing Systems Workshops (NeurIPS 2020), Vancouver, Canada, Dec 6-12, 2020. </li>
-  <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim;M. Blaschko,“Designing MacPherson Suspension Architectures using Bayesian Optimization,” 28th Belgian Dutch Conference on Machine Learning, Brussels, Belgium, Nov 6-8, 2019.</li>
-  <li>S. S. Thomas,“Perceptual Attributes in Video Summarization,” in 5th IEEE Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering , Gorakhpur, India, Nov 2-4, 2018.</li>
-  <li>S. S. Thomas,“Video Summarization,” in IEEE International Conference on Information and Communication Technology, Jabalpur, India, Oct 26-28, 2018.</li>
-  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Video Summarization - a New Framework for Video Summarization,” in 21st IEEE International Symposium on Circuits and Systems, Florence, Italy, May 27-30 2018.</li>
-  <li>H. Kumar, S. Bhattacharya, S. S. Thomas; S. Gupta; Venkatesh K. S., “Design of Smart Video Surveillance System for Indoor and Outdoor Scenes,” in 2017 22nd IEEE International Conference on Digital Signal Processing, London, August 23-25 2017.</li>
-  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Smart Surveillance Based on Video Summarization,” IEEE Region 10 Conference on Technologies for Smart Cities, Cochin, July 14-16 2017.</li>
-  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “An Energy Minimization Approach for Automatic Video Shot and Scene Boundary Detection,” in 2014 10th IEEE International Conference on Intelligent Information Hiding and Multimedia Signal Processing, Kitakyushu, Japan, August 27-29 2014, pp. 297-300.</li>
-  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Non User Interaction Content Summarization,” in 2014 19th IEEE International Conference on Digital Signal Processing, Hong Kong, August 20-23 2014, pp. 286-290.</li>
-  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “AUTOENSUM: Automated Enhanced Summary for Multiple Interacting Objects,” in 2014 15th IEEE International Conference Multimedia and Expo, Chengdu, China, July 14-18 2014, pp. 1-6.</li>
-</ol>
