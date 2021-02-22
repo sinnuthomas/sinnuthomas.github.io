@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+  * Computer Vision (IIITMK)
   * Mathematics for Machine Learning (IIITMK)
   * Pattern Recognition (IIITMK)
   * Digital Image Processing (KTU)
