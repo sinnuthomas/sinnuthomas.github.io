@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **2021**
 <ol reversed>
-  <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; S. S. Thomas, “ A [IEEE IJCNN 2021](https://www.ijcnn.org/tutorials) Novel Stochastic Epidemic Model with Application to COVID-19,” in arXiv:2102.08213, 2021.[pdf](https://arxiv.org/abs/2102.08213)</li>
+  <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; S. S. Thomas, “ A [IEEE IJCNN 2021] (https://www.ijcnn.org/tutorials) Novel Stochastic Epidemic Model with Application to COVID-19,” in arXiv:2102.08213, 2021.[pdf](https://arxiv.org/abs/2102.08213)</li>
 </ol>
 
 * **2020**
