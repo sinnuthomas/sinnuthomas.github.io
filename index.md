@@ -8,7 +8,7 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image and Vision Computing Lab<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK(IIITMK)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK (IIITMK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
