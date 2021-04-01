@@ -23,7 +23,6 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Apr 2021] Selected as DAAD AI Post-Doc-Net Fellow for 2021-22. 
 * [Mar 2021] Giving Tutorial at [CAIP 2021](http://cyprusconferences.org/caip2021/tutorials/), in Nicosia, Cyprus. 
 * [Jan 2021] Giving Tutorial at [IEEE IJCNN 2021](https://www.ijcnn.org/tutorials), in Shenzhen, China. 
 
