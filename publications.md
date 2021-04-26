@@ -6,6 +6,7 @@ permalink: /publications/
 
 * **2021**
 <ol reversed>
+  <li>T. Xu; S. S. Thomas, “ Unpaired Video Summarization using COT-GAN,” in CVPR Worshops, 2021. </li>
   <li>Miguel A. Solis; S. S. Thomas, “ Generalized State-Feedback Controller Synthesis for Underactuated Systems through Bayesian Optimization,” in arXiv:2103.17158, 2021. </li>
   <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; S. S. Thomas, “ A Novel Stochastic Epidemic Model with Application to COVID-19,” in arXiv:2102.08213, 2021. </li>
 </ol>
