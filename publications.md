@@ -24,7 +24,7 @@ permalink: /publications/
 
   * **2019**
 <ol reversed> 
-  <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim;M. Blaschko,“Designing MacPherson Suspension Architectures using Bayesian Optimization,” 28th Belgian Dutch Conference on Machine Learning, Brussels, Belgium, Nov 6-8, 2019.<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwicgNj0xP3wAhXHyzgGHegNCpMQFjAAegQIAhAD&url=http%3A%2F%2Fceur-ws.org%2FVol-2491%2Fpaper104.pdf&usg=AOvVaw05IaH48FTIDbMuxYr3-nBG">pdf</a></li>
+  <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim;M. Blaschko,“<a href="https://openreview.net/forum?id=tZ2Oqtl9-a5">Designing MacPherson Suspension Architectures using Bayesian Optimization</a>,” 28th Belgian Dutch Conference on Machine Learning, Brussels, Belgium, Nov 6-8, 2019.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Context Driven Optimized Perceptual Video Summarization and Retrieval,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 10, pp. 3132-3145, Oct 2019.</li>
 </ol>
 
