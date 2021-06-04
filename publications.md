@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **2021**
 <ol reversed>
-  <li>R. Giriraj; S. S. Thomas, “ [Causal Discovery in Knowledge Graphs by Exploiting Asymmetric Properties of Non-Gaussian Distributions](https://arxiv.org/abs),” in arXiv:2106.01043, 2021. </li>
+  <li>R. Giriraj; S. S. Thomas, “ [Causal Discovery in Knowledge Graphs by Exploiting Asymmetric Properties of Non-Gaussian Distributions](https://arxiv.org),” in arXiv:2106.01043, 2021. </li>
   <li>V. Kumar; S. S. Thomas, “ Make Bipedal Robots Learn How to Imitate,” in arXiv:2105.07193, 2021. </li>
   <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; S. S. Thomas, “ On the Economy-healthcare Trade-off: Stochastic Optimal Control of Epidemics via Parsimonious Models and Markov Decision Processes, with Application to India's COVID-19 Outbreak” </li>
   <li>T. Xu; S. S. Thomas, “ Unpaired Video Summarization using COT-GAN,” in CVPR Worshops, 2021. </li>
