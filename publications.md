@@ -17,7 +17,7 @@ permalink: /publications/
 * **2020**
 <ol reversed>
   <li>S. Mukherjee; <b>S. S. Thomas</b>, “<a href="https://wimlworkshop.org/neurips2020/program/">Deep Unfolding Approaches for Sparse Dictionary Learning in Video Summarization</a>,” 34th Conference on Neural Information Processing Systems Workshops (NeurIPS 2020), Vancouver, Canada, Dec 6-12, 2020. </li>
-  <li>O. T. James; S. S. Thomas, “ <a href="https://arxiv.org/abs/2010.01280">Bayesian Optimized Event Based Epidemic Modeling in India</a>,” in arXiv:2010.01280, 2020.</li>
+  <li>O. T. James; <b>S. S. Thomas</b>, “ <a href="https://arxiv.org/abs/2010.01280">Bayesian Optimized Event Based Epidemic Modeling in India</a>,” in arXiv:2010.01280, 2020.</li>
   <li>A. M. Paul; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2008.12127">Multifaceted COVID-19 Outbreak</a>,” in arXiv:2008.12127, 2020.</li>
   <li><b>S. S. Thomas</b>; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,” in IEEE Transactions on Cybernetics (in Review), 2020.</li>
 </ol>
