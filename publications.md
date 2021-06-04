@@ -7,7 +7,7 @@ permalink: /publications/
 * **2021**
 <ol reversed>
   <li>R. Giriraj; S. S. Thomas, “ <a href="https://arxiv.org/abs/2106.01043">Causal Discovery in Knowledge Graphs by Exploiting Asymmetric Properties of Non-Gaussian Distributions</a>,” in arXiv:2106.01043, 2021. <a href="https://www.github.com/rohangiriraj/CausalKG">[Code]</a></li>
-  <li>V. Kumar; S. S. Thomas, “ <a href="https://arxiv.org/abs/2105.07193">Make Bipedal Robots Learn How to Imitate</a>,” in arXiv:2105.07193, 2021.<a href="https://github.com/8-vishal/Imitation-Learning-in-bipedal-robots">[Code]</a> </li>
+  <li>V. Kumar; S. S. Thomas, “ <a href="https://arxiv.org/abs/2105.07193">Make Bipedal Robots Learn How to Imitate</a>,” in arXiv:2105.07193, 2021.<a href="https://github.com/8-vishal/Imitation-Learning-in-bipedal-robots">[<span style="color:red">some **Code** text</span>]</a> </li>
   <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; S. S. Thomas, “ On the Economy-healthcare Trade-off: Stochastic Optimal Control of Epidemics via Parsimonious Models and Markov Decision Processes, with Application to India's COVID-19 Outbreak” </li>
   <li>T. Xu; S. S. Thomas, “ Unpaired Video Summarization using COT-GAN,” in CVPR Worshops, 2021. </li>
   <li>M. A. Solis; S. S. Thomas, “ <a href="https://arxiv.org/abs/2103.17158">Generalized State-Feedback Controller Synthesis for Underactuated Systems through Bayesian Optimization</a>,” in arXiv:2103.17158, 2021. <a href="https://github.com/miguel-a-solis/Solis-Thomas2021">[Code]</a></li>
