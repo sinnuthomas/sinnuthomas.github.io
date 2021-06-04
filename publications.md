@@ -38,7 +38,7 @@ permalink: /publications/
   
   * **2017**
 <ol reversed> 
-  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “Perceptual Video Summarization - a New Framework for Video Summarization,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 8, pp. 1790-1802, Aug 2017.</li>
+  <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “<a href="https://ieeexplore.ieee.org/document/7457239">Perceptual Video Summarization - a New Framework for Video Summarization</a>,” in IEEE Transactions on Circuits and Systems for Video Technology, vol. 27, no. 8, pp. 1790-1802, Aug 2017.</li>
   <li>H. Kumar, S. Bhattacharya, S. S. Thomas; S. Gupta; Venkatesh K. S., “<a href="https://ieeexplore.ieee.org/document/8096120">Design of Smart Video Surveillance System for Indoor and Outdoor Scenes</a>,” in 2017 22nd IEEE International Conference on Digital Signal Processing, London, August 23-25 2017.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “<a href="https://ieeexplore.ieee.org/document/8070003">Smart Surveillance Based on Video Summarization</a>,” IEEE Region 10 Conference on Technologies for Smart Cities, Cochin, July 14-16 2017.</li>
   <li>S. S. Thomas; S. Gupta; Venkatesh K. S., “<a href="https://link.springer.com/article/10.1007/s11760-016-0993-3">Perceptual Synoptic View based Video Retrieval Using Metadata</a>,” Springer Signal, Image and Video Processing, vol. 11, pp. 549-555, Mar 2017.</li>
