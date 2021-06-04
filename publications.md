@@ -7,18 +7,18 @@ permalink: /publications/
 * **2021**
 <ol reversed>
   <li>R. Giriraj; S. S. Thomas, “ <a href="https://arxiv.org/abs/2106.01043">Causal Discovery in Knowledge Graphs by Exploiting Asymmetric Properties of Non-Gaussian Distributions</a>,” in arXiv:2106.01043, 2021. </li>
-  <li>V. Kumar; S. S. Thomas, “ Make Bipedal Robots Learn How to Imitate,” in arXiv:2105.07193, 2021. </li>
+  <li>V. Kumar; S. S. Thomas, “ <a href="https://arxiv.org/abs/2105.07193">Make Bipedal Robots Learn How to Imitate</a>,” in arXiv:2105.07193, 2021. </li>
   <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; S. S. Thomas, “ On the Economy-healthcare Trade-off: Stochastic Optimal Control of Epidemics via Parsimonious Models and Markov Decision Processes, with Application to India's COVID-19 Outbreak” </li>
   <li>T. Xu; S. S. Thomas, “ Unpaired Video Summarization using COT-GAN,” in CVPR Worshops, 2021. </li>
-  <li>M. A. Solis; S. S. Thomas, “ Generalized State-Feedback Controller Synthesis for Underactuated Systems through Bayesian Optimization,” in arXiv:2103.17158, 2021. </li>
-  <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; S. S. Thomas, “ A Novel Stochastic Epidemic Model with Application to COVID-19,” in arXiv:2102.08213, 2021. </li>
+  <li>M. A. Solis; S. S. Thomas, “ <a href="https://arxiv.org/abs/2103.17158">Generalized State-Feedback Controller Synthesis for Underactuated Systems through Bayesian Optimization</a>,” in arXiv:2103.17158, 2021. </li>
+  <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; S. S. Thomas, “<a href="https://arxiv.org/abs/2102.08213">A Novel Stochastic Epidemic Model with Application to COVID-19</a>,” in arXiv:2102.08213, 2021. </li>
 </ol>
 
 * **2020**
 <ol reversed>
-  <li>S. Mukherjee; S. S. Thomas, “Deep Unfolding Approaches for Sparse Dictionary Learning in Video Summarization,” 34th Conference on Neural Information Processing Systems Workshops (NeurIPS 2020), Vancouver, Canada, Dec 6-12, 2020. </li>
-  <li>O. T. James; S. S. Thomas, “ Bayesian Optimized Event Based Epidemic Modeling in India,” in arXiv:2010.01280, 2020.</li>
-  <li>A. M. Paul; S. S. Thomas, “Multifaceted COVID-19 Outbreak,” in arXiv:2008.12127, 2020.</li>
+  <li>S. Mukherjee; S. S. Thomas, “<a href="https://wimlworkshop.org/neurips2020/program/">Deep Unfolding Approaches for Sparse Dictionary Learning in Video Summarization</a>,” 34th Conference on Neural Information Processing Systems Workshops (NeurIPS 2020), Vancouver, Canada, Dec 6-12, 2020. </li>
+  <li>O. T. James; S. S. Thomas, “ <a href="https://arxiv.org/abs/2010.01280">Bayesian Optimized Event Based Epidemic Modeling in India</a>,” in arXiv:2010.01280, 2020.</li>
+  <li>A. M. Paul; S. S. Thomas, “<a href="https://arxiv.org/abs/2008.12127">Multifaceted COVID-19 Outbreak</a>,” in arXiv:2008.12127, 2020.</li>
   <li>S. S. Thomas; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,” in IEEE Transactions on Cybernetics (in Review), 2020.</li>
 </ol>
 
