@@ -17,4 +17,8 @@ Internship positions aim at introducing undergraduate and postgraduate students 
    <br/><br/>
 * **Research Positions**
   <br/><br/>
-Looking for enthusiastic Masters/PhD/PostDoc candidates to join the group with good mathematical and programming skills.
+Looking for enthusiastic Masters/PhD (only Regular candidates)/PostDoc candidates to join the group with good mathematical and programming skills.
+* Mandatory Requirements
+  <br/><br/>
+   Matrix Analysis and Linear Algebra, Fourier, Laplace, and z-Transforms ,Probability Theory and Random Processes 
+   <br/><br/>
