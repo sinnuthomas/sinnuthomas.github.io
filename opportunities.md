@@ -7,7 +7,7 @@ permalink: /opportunities/
 * **Research Positions**
   <br/><br/>
 Looking for enthusiastic Masters/PhD (only Regular candidates)/PostDoc candidates to join the group with good mathematical and programming skills.
-* Mandatory Requirements
+  * Mandatory Requirements
   <br/><br/>
    Matrix Analysis and Linear Algebra, Fourier, Laplace, and z-Transforms, Probability Theory and Random Processes 
    <br/><br/>
