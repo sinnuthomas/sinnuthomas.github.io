@@ -9,7 +9,7 @@ permalink: /opportunities/
 Looking for enthusiastic Masters/PhD (only Regular candidates)/PostDoc candidates to join the group with good mathematical and programming skills.
   * Mandatory Requirements
   <br/><br/>
-   Matrix Analysis and Linear Algebra, Fourier, Laplace, and z-Transforms, Probability Theory and Random Processes, Python/Tensorflow/PyTorch/Caffe
+   Matrix Analysis and Linear Algebra, Probability Theory and Random Processes, Python/Tensorflow/PyTorch/Caffe
    <br/><br/>
 * **Internship Positions**
   <br/><br/>
