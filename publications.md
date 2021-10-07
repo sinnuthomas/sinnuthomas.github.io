@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **2021**
 <ol reversed>
-  <li><b>S. S. Thomas</b>; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,” in IEEE Transactions on Cybernetics (in press), 2021.</li>
+  <li><b>S. S. Thomas</b>; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. Blaschko, “ <a href="https://ieeexplore.ieee.org/document/9560711">Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization,” in IEEE Transactions on Cybernetics (in press), 2021.</li>
   <li>R. Giriraj; <b>S. S. Thomas</b>, “ <a href="https://arxiv.org/abs/2106.01043">Causal Discovery in Knowledge Graphs by Exploiting Asymmetric Properties of Non-Gaussian Distributions</a>,” in arXiv:2106.01043, 2021. <a href="https://www.github.com/rohangiriraj/CausalKG">[<b>Code</b>]</a></li>
   <li>V. Kumar; <b>S. S. Thomas</b>, “ <a href="https://arxiv.org/abs/2105.07193">Make Bipedal Robots Learn How to Imitate</a>,” in arXiv:2105.07193, 2021.<a href="https://github.com/8-vishal/Imitation-Learning-in-bipedal-robots">[<b>Code</b>]</a></li>
   <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “ On the Economy-healthcare Trade-off: Stochastic Optimal Control of Epidemics via Parsimonious Models and Markov Decision Processes, with Application to India's COVID-19 Outbreak” </li>
