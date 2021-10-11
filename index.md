@@ -23,7 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Sep 2021] Congrats Rohan for getting placed in [Xilinx](https://www.xilinx.com/).
+* [Sep 2021] Congrats Rohan on getting placed in [Xilinx](https://www.xilinx.com/).
 
 
 
