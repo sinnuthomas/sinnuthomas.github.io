@@ -23,7 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Apr 2021] [DAAD Post-Doc-Net AI Fellow for 2021-22](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/).
+* [Sep 2021] Congrats Rohan for getting placed in [Xilinx](https://www.xilinx.com/).
 
 
 
