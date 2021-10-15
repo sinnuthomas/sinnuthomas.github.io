@@ -3,6 +3,11 @@ layout: page
 title: Bio
 permalink: /bio/
 ---
+<style>
+body {
+text-align: justify}
+</style>
+
 * **Education**
   <br/>
 Born in the educational hub of coaching institutes in India- [Kota, Rajasthan](https://kota.rajasthan.gov.in/content/raj/kota/en/home.html), went for schooling at [St. John's Senior Secondary School, Kota Rajasthan](http://www.stjohnsschoolkota.edu.in/), received the B.E. (Hons.) degree in Electronics and Communication Engineering from [Rajasthan University Jaipur](https://www.uniraj.ac.in/) and the M.Tech. Degree in Communication Engineering from [National Institute of Technology Karnataka Surathkal](https://www.nitk.ac.in/) advised by [Prof. Sumam David](https://sumam.nitk.ac.in/). Received the PhD degree in Electrical Engineering from [Indian Institute of Technology Kanpur](https://iitk.ac.in/), advised by [Prof. Sumana Gupta](http://www.iitk.ac.in/ee/people/fac-pages/sumana.shtml) and [Prof. K. S. Venkatesh](http://home.iitk.ac.in/~venkats/). The Ph.D. thesis was entitled “Perceptual Attributes in Video Summarization”, where the videos were summarized based on the human visual perspective. 
