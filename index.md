@@ -23,6 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
+* [Nov 2021] DST SRG Grant Approved.
 * [Sep 2021] Our alumni Rohan is with [Xilinx](https://www.xilinx.com/). Congrats !
 
 
