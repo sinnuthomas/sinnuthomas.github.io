@@ -9,3 +9,4 @@ permalink: /talks/
   * [Gaussian Processes in Machine Learning](https://www.youtube.com/watch?v=UWH8_-njdaA) at Winter School of AI & Robotics, IIT-Kharagpur, 16 March 2021.
   * Video Summarization Techniques at Department of Avionics, IIST-Trivandrum, 2 Jan 2018.
   * Perceptual Attributes in Video Summarization at Department of ECE, VJCET, Kochi, 14 Dec 2017.
+  * Perceptual Attributes in Video Summarization at Department of EE, IIT Kanpur, 3 Oct 2017.
