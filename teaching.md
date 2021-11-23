@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+  * Computer Architecture (DUK)
   * Computer Vision (IIITMK)
   * Mathematics for Machine Learning (IIITMK)
   * Pattern Recognition (IIITMK)
