@@ -25,7 +25,6 @@ title: Home
 ## News
 * [Dec 2021] British Council Going Global Partnerships Exploratory Grants Approved.
 * [Nov 2021] DST SRG Grant Approved.
-* [Sep 2021] Our alumni Rohan is with [Xilinx](https://www.xilinx.com/). Congrats !
 
 
 
