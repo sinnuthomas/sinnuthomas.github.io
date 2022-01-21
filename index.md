@@ -13,7 +13,7 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695317<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstname dot lastname at iiitmk dot ac dot in<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstname dot lastname at duk dot ac dot in<br> 
 <br/><br/>
 
 ## Research Interests
