@@ -25,7 +25,7 @@ title: Home
 ## News
 * [Jan 2022] Job Openings:
     One position available for projects on Causal Optimal Transport for Summarizing the Unpaired Videos:
-    [Research Associate-II] (https://www.iiitmk.ac.in/careers/). 
+    [Research Associate-II](https://www.iiitmk.ac.in/careers/). 
 * [Dec 2021] British Council Going Global Partnerships Exploratory Grants Approved.
 * [Nov 2021] DST SRG Grant Approved.
 
