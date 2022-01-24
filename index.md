@@ -23,6 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
+* [Jan 2022] Project Vacancy available in the group. Visit [IIITMK Careers](https://www.iiitmk.ac.in/careers/) page for Research Associate-II.
 * [Dec 2021] British Council Going Global Partnerships Exploratory Grants Approved.
 * [Nov 2021] DST SRG Grant Approved.
 
