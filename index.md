@@ -24,7 +24,10 @@ title: Home
 
 ## News
 * [Jan 2022] Job Openings:
-    One position available for projects on Causal Optimal Transport for Summarizing the Unpaired Videos:
+    One position available for British Council project on Developing Policy Inputs for Faster Economic Recovery while Promoting Disaster
+Preparedness via Artificial Intelligence:
+    [Project Manager](https://www.duk.ac.in/careers/).  
+    One position available for DST SERB project on Causal Optimal Transport for Summarizing the Unpaired Videos:
     [Research Associate-II](https://www.iiitmk.ac.in/careers/). 
 * [Dec 2021] British Council Going Global Partnerships Exploratory Grants Approved.
 * [Nov 2021] DST SRG Grant Approved.
