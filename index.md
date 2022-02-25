@@ -18,7 +18,7 @@ title: Home
 
 ## Research Interests
 * [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
-* Image / Video [Signal Processing](https://en.wikipedia.org/wiki/Signal_processing)
+* [Image / Video Signal Processing](https://en.wikipedia.org/wiki/Digital_image_processing)(https://en.wikipedia.org/wiki/Video_processing)
 * [Bayesian Optimization](https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
