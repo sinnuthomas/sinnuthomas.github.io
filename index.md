@@ -23,10 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Jan 2022] Job Openings:<br/>
-    One position available for British Council project on Developing Policy Inputs for Faster Economic Recovery while Promoting Disaster
-Preparedness via Artificial Intelligence:
-    [Project Manager](https://www.duk.ac.in/careers/).  
+* [Mar 2022] Job Openings:<br/>
     One position available for DST SERB project on Causal Optimal Transport for Summarizing the Unpaired Videos:
     [Research Associate-II](https://www.iiitmk.ac.in/careers/). 
 
