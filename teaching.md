@@ -4,8 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
   * Deep Learning & Reinforcement Learning (DUK)
+  * Computer Vision (IIITMK, DUK)
   * Computer Architecture (DUK)
-  * Computer Vision (IIITMK)
   * Mathematics for Machine Learning (IIITMK)
   * Pattern Recognition (IIITMK)
   * Digital Image Processing (KTU)
