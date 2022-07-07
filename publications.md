@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 * **2022**
 <ol reversed>
-  <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2206.13910"> Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes</a>,” in  	arXiv:2206.13910, 2022.<a href="https://github.com/8-vishal/Imitation-Learning-in-bipedal-robots">[<b>Code</b>]</a> </li>
+  <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2206.13910"> Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes</a>,” in  	arXiv:2206.13910, 2022.<a href="https://github.com/Tarun-Sharma9168/Optimal_Control_And_Decision_Making">[<b>Code</b>]</a> </li>
 </ol>
 
 * **2021**
