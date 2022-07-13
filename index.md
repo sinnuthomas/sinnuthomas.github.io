@@ -23,9 +23,8 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Mar 2022] Job Openings:<br/>
-    One position available for DST SERB project on Causal Optimal Transport for Summarizing the Unpaired Videos:
-    [Research Associate-II](https://www.iiitmk.ac.in/careers/). 
+* [Jul 2022] PhD Openings:<br/>
+    Currently seeking brilliant and highly motivated PhD students to join my research group. 
 
 
 
