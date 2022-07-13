@@ -24,7 +24,7 @@ title: Home
 
 ## News
 * [Jul 2022] PhD Openings:<br/>
-    Currently seeking brilliant and highly motivated PhD students to join my research group. 
+    Currently seeking brilliant and highly motivated PhD students to join our research group. 
 
 
 
