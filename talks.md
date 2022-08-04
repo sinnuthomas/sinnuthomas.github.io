@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * Trail and Error based Learning at British Council sponsored Worshop, DUK, May 2022.
   * [Design of Underactuated Systems using Learning Techniques](https://www.diat.ac.in/about-diat/conference-and-events/) at Defence Institute of Advanced Technology, Pune, 22 Nov 2021.
   * [Video Summarization for Unpaired Videos](http://cyprusconferences.org/caip2021/tutorials/) at CAIP Cyprus, September 2021.
   * [Design Solutions using Bayesian Optimization](https://www.ijcnn.org/tutorials) at IJCNN China, July 2021.
