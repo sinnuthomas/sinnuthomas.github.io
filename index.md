@@ -6,8 +6,8 @@ title: Home
 <img align="left" src="sinnu1.jpg" width="220" >
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image and Vision Computing Lab<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Optimization and Machine Learning Lab<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Image and Vision Computing Lab](https://sinnuthomas.github.io/IVC_OML/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optimization and Machine Learning Lab](https://sinnuthomas.github.io/IVC_OML/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK (IIITMK)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
