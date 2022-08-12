@@ -8,11 +8,11 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Image and Vision Computing Lab](https://sinnuthomas.github.io/IVC/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optimization and Machine Learning Lab](https://sinnuthomas.github.io/OML/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DUK (IIITMK)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trivandrum<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;India-695317<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital University Kerala (formerly IIITM-Kerala)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity, Mangalapuram<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Thonnakkal,Thiruvananthapuram<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala 695 317 India <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-471-2788000<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firstname dot lastname at duk dot ac dot in<br> 
 <br/><br/>
 
