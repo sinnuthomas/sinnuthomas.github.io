@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * [Optimization for Industrial Applications](http://www.ietetvm.org/downloads/fdp_schedule.pdf), IETE Thiruvananthapuram, Aug 2022.
   * Trail and Error based Learning at British Council sponsored Worshop, DUK, May 2022.
   * [Design of Underactuated Systems using Learning Techniques](https://www.diat.ac.in/about-diat/conference-and-events/) at Defence Institute of Advanced Technology, Pune, 22 Nov 2021.
   * [Gaussian Processes as a Solution to Designs](https://www.casus.science/events/gaussian-processes-as-a-solution-to-designs-by-sinnu-susan-thomas/) at CASUS Germany, July 2021.
