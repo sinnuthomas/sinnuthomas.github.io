@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * Applications of Image Processing, SCMS, Ernakulam, Sep 2022.
   * [Optimization for Industrial Applications](http://www.ietetvm.org/downloads/fdp_schedule.pdf), IETE Thiruvananthapuram, Aug 2022.
   * Trail and Error based Learning at British Council sponsored Worshop, DUK, May 2022.
   * [Design of Underactuated Systems using Learning Techniques](https://www.diat.ac.in/about-diat/conference-and-events/) at Defence Institute of Advanced Technology, Pune, 22 Nov 2021.
