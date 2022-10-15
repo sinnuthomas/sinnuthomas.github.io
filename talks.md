@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * [Artificial Intelligence and Machine Learning for Landslide Detection and Mitigation](https://iclrrildm.in/submission/), ILDM, Thiruvananthapuram, Oct 2022.
   * Applications of Image Processing, SCMS, Ernakulam, Sep 2022.
   * [Optimization for Industrial Applications](http://www.ietetvm.org/downloads/fdp_schedule.pdf), IETE Thiruvananthapuram, Aug 2022.
   * Trail and Error based Learning at British Council sponsored Worshop, DUK, May 2022.
