@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * [Causality for Machine Learning](https://dca.cusat.ac.in/explainableaifdp/), CUSAT, Kochi, Jan 2023.
   * [Artificial Intelligence and Machine Learning for Landslide Detection and Mitigation](https://iclrrildm.in/submission/), ILDM, Thiruvananthapuram, Oct 2022.
   * Applications of Image Processing, SCMS, Ernakulam, Sep 2022.
   * [Optimization for Industrial Applications](http://www.ietetvm.org/downloads/fdp_schedule.pdf), IETE Thiruvananthapuram, Aug 2022.
