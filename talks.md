@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * [Machine Learning Optimization for Industrial Applications](https://www.tkmce.ac.in/news.php?id=95), TKM College of Engineering, Kollam, Jan 2023.
   * [Causality for Machine Learning](https://dca.cusat.ac.in/explainableaifdp/), CUSAT, Kochi, Jan 2023.
   * [Artificial Intelligence and Machine Learning for Landslide Detection and Mitigation](https://iclrrildm.in/submission/), ILDM, Thiruvananthapuram, Oct 2022.
   * Applications of Image Processing, SCMS, Ernakulam, Sep 2022.
