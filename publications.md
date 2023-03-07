@@ -5,12 +5,12 @@ permalink: /publications/
 ---
 * **2023**
 <ol reversed>
-  <li>R. Badarinath; B. K. Raju; M. Anshad K; V. Prabhu; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2206.13910"> Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes,” in  IFAC World Congress, Yokohawa, Japan, Jul 9-14, 2023.</li>
+  <li>R. Badarinath; B. K. Raju; M. Anshad K; V. Prabhu; <b>S. S. Thomas</b>, “Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication,” in  IFAC World Congress, Yokohawa, Japan, Jul 9-14, 2023.</li>
 </ol>
 
 * **2022**
 <ol reversed>
-  <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication</a>,” in  	arXiv:2206.13910, 2022.<a href="https://github.com/Tarun-Sharma9168/Optimal_Control_And_Decision_Making">[<b>Code</b>]</a> </li>
+  <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2206.13910"> Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes</a>,” in  	arXiv:2206.13910, 2022.<a href="https://github.com/Tarun-Sharma9168/Optimal_Control_And_Decision_Making">[<b>Code</b>]</a> </li>
 </ol>
 
 * **2021**
