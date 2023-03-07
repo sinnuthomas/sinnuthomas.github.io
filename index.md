@@ -24,7 +24,7 @@ title: Home
 
 ## News
 * [Mar 2023] Congratulations:<br/>
-    Congratulations Basil K. Raju and Mohammed Anshad K on the acceptance of the paper titled "Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication", 22nd World Congress of the International Federation of Automatic Control, Yokohawa, Japan, July 2023. 
+    Congratulations Basil K. Raju and Mohammed Anshad K on the acceptance of the paper titled "Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication", 22nd World Congress of the International Federation of Automatic Control (IFAC), Yokohawa, Japan, July 2023. 
     
 * [Mar 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
     Currently seeking brilliant and highly motivated PhD students to join our research group. 
