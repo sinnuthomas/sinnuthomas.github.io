@@ -6,7 +6,7 @@ permalink: /opportunities/
 
 * **Research Positions**
   <br/><br/>
-Looking for enthusiastic Masters/PhD (only Regular candidates)/PostDoc candidates to join the group with good mathematical and programming skills.
+Looking for enthusiastic Masters/PhD (only Regular)/PostDoc candidates to join the group with good mathematical and programming skills.
   * Mandatory Requirements
   <br/><br/>
    Matrix Analysis and Linear Algebra, Probability Theory and Random Processes, Python/Tensorflow/PyTorch/Caffe
