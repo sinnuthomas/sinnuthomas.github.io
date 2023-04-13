@@ -23,7 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Apr 2023] WOW:<br/>
+* [Apr 2023] Wow:<br/>
     DST [SERB Accelerate Vigyan Scheme – ABHYAAS (Vritika) 2023](https://prism.serbonline.in/RS-AV) Proposal accepted. 
     
 * [Mar 2023] Congratulations:<br/>
