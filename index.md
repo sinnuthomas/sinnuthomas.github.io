@@ -23,7 +23,7 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-* [Mar 2023] Congratulations:<br/>
+* [Mar 2023] WOW:<br/>
     DST SERB Karyashala 2023 Proposal accepted. 
     
 * [Mar 2023] Congratulations:<br/>
