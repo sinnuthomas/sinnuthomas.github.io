@@ -24,6 +24,9 @@ title: Home
 
 ## News
 * [Mar 2023] Congratulations:<br/>
+    DST SERB Karyashala 2023 Proposal accepted. 
+    
+* [Mar 2023] Congratulations:<br/>
     Congratulations Basil K. Raju and Mohammed Anshad K on the acceptance of the paper titled "Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication", 22nd World Congress of the International Federation of Automatic Control (IFAC), Yokohawa, Japan, July 2023. 
     
 * [Mar 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
