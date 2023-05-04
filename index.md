@@ -24,7 +24,7 @@ title: Home
 
 ## News
 
-* [May 2023] Wow:<br/>
+* [May 2023] Paper Accepted:<br/>
     Paper accepted in IEEE Transactions on Artificial Intelligence. 
     
 * [May 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
@@ -33,7 +33,7 @@ title: Home
 * [May 2023] Paid Internship:<br/>
     Currently seeking brilliant and highly motivated BTech /MSc students to join for internship for a month. 
     
-* [Apr 2023] Wow:<br/>
+* [Apr 2023] Funding:<br/>
     DST [SERB Accelerate Vigyan Scheme – ABHYAAS (Vritika) 2023](https://prism.serbonline.in/RS-AV) Proposal accepted. 
     
 * [Mar 2023] Congratulations:<br/>
