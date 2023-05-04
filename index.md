@@ -23,18 +23,21 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
+
+* [May 2023] Wow:<br/>
+    Paper accepted in IEEE Transactions on Artificial Intelligence. 
+    
+* [May 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
+    Currently seeking brilliant and highly motivated PhD students to join our research group. 
+
+* [May 2023] Paid Internship:<br/>
+    Currently seeking brilliant and highly motivated BTech /MSc students to join for internship for a month. 
+    
 * [Apr 2023] Wow:<br/>
     DST [SERB Accelerate Vigyan Scheme – ABHYAAS (Vritika) 2023](https://prism.serbonline.in/RS-AV) Proposal accepted. 
     
 * [Mar 2023] Congratulations:<br/>
     Congratulations Basil K. Raju and Mohammed Anshad K on the acceptance of the paper titled "Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication", 22nd World Congress of the International Federation of Automatic Control (IFAC), Yokohawa, Japan, July 2023. 
     
-* [Mar 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
-    Currently seeking brilliant and highly motivated PhD students to join our research group. 
-
-* [Jun 2023] Paid Internship:<br/>
-    Currently seeking brilliant and highly motivated BTech /MSc students to join for internship for two months. 
-
-
 <br/><br/>
 <p><small>Successful and unsuccessful people do not vary greatly in their abilities.They vary in their desires to reach their potential. – John Maxwell </small></p>
