@@ -30,9 +30,6 @@ title: Home
 * [May 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
     Currently seeking brilliant and highly motivated PhD students to join our research group. 
 
-* [May 2023] Paid Internship:<br/>
-    Currently seeking brilliant and highly motivated BTech /MSc students to join for internship for a month. 
-    
 * [Apr 2023] Funding:<br/>
     DST [SERB Accelerate Vigyan Scheme – ABHYAAS (Vritika) 2023](https://prism.serbonline.in/RS-AV) Proposal accepted. 
     
