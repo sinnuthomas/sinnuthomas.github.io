@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 * **2023**
 <ol reversed>
-  <li><b>S. S. Thomas</b>; G. Lamine; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B. Blaschko, “Mitigating Bias in Bayesian Optimized Data while Designing MacPherson Suspension Architecture,” in IEEE Transactions on Artificial Intelligence (Accepted), May 2023. [<b>Code available on request</b>]</li>
+  <li><b>S. S. Thomas</b>; G. Lamine; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B. Blaschko, “ <a href="https://ieeexplore.ieee.org/document/10121628">Mitigating Bias in Bayesian Optimized Data while Designing MacPherson Suspension Architecture</a>,” in IEEE Transactions on Artificial Intelligence (Accepted), May 2023. [<b>Code available on request</b>]</li>
   <li>R. Badarinath; B. K. Raju; M. Anshad K; V. Prabhu; <b>S. S. Thomas</b>, “Real-time Vision Sensor for Volumetric Flowrate Estimation in Robotic Fused Filament Fabrication,” in  IFAC World Congress, Yokohawa, Japan, Jul 9-14, 2023. <a href="https://github.com/basilkraju/Real-time-Vision-Sensor-for-Volumetric-Flowrate-Estimation-in-Robotic-Fused-Filament-Fabrication">[<b>Code</b>]</a></li>
   <li><b>S. S. Thomas</b>; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B. Blaschko, “ <a href="https://ieeexplore.ieee.org/document/9560711">Kinematics Design of a MacPherson Suspension Architecture based on Bayesian Optimization</a>,” in IEEE Transactions on Cybernetics, vol. 53, no. 4, pp. 2261-2274, Apr 2023. [<b>Code available on request</b>]</li>
 </ol>
