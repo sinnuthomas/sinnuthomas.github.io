@@ -23,7 +23,9 @@ title: Home
 * [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
 
 ## News
-
+* [June 2023] Paper Accepted:<br/>
+    Paper accepted in ISA Transactions.
+  
 * [May 2023] Paper Accepted:<br/>
     Paper accepted in IEEE Transactions on Artificial Intelligence. 
     
