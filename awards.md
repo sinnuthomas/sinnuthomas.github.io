@@ -4,7 +4,6 @@ title: Awards
 permalink: /awards/
 ---
 * **Awards to Students**
-  * Received D&I Travel Support to attend IFAC WC 2023, Yokohama, JAPAN. 
   * [Finalist for CSI-InApp International Student Projects Awards, 2021](https://www.youtube.com/watch?v=9OMzIksAeZ4&t=7095s).
 
 * **Awards**
