@@ -20,7 +20,7 @@ title: Home
 * [Computer Vision](https://en.wikipedia.org/wiki/Computer_vision)
 * [Image](https://en.wikipedia.org/wiki/Digital_image_processing) / [Video Signal Processing](https://en.wikipedia.org/wiki/Video_processing)
 * [Bayesian Optimization](https://en.wikipedia.org/wiki/Bayesian_optimization) for Industrial Applications
-* [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)  
+* [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
 * [June 2023] Paper Accepted:<br/>
