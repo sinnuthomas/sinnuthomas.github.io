@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+  * Optimization Techniques (DUK)
   * Deep Learning & Reinforcement Learning (DUK)
   * Computer Vision (IIITMK, DUK)
   * Computer Architecture (DUK)
