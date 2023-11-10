@@ -4,10 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
   * Optimization Techniques (DUK)
+  * Mathematics for Computer Science (IIITMK, DUK)
   * Deep Learning & Reinforcement Learning (DUK)
   * Computer Vision (IIITMK, DUK)
   * Computer Architecture (DUK)
-  * Mathematics for Machine Learning (IIITMK)
   * Pattern Recognition (IIITMK)
   * Digital Image Processing (KTU)
   * Digital Signal Processing (MGU) 
