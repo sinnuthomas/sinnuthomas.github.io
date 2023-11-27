@@ -3,7 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-  * [Conditional Generative Models in Computer Vision](https://www.tinkerhub.org/gen-ai-conference), TinkerHub Foundation, Kochi, Nov 2023.
+  * [Conditional Generative Models in Computer Vision](https://www.youtube.com/watch?v=P5IlsOegvSU&t=33s), [TinkerHub Foundation](https://www.tinkerhub.org/gen-ai-conference), Kochi, Nov 2023.
   * [Machine Learning Optimization for Industrial Applications](https://www.tkmce.ac.in/news.php?id=95), TKM College of Engineering, Kollam, Jan 2023.
   * [Causality for Machine Learning](https://dca.cusat.ac.in/explainableaifdp/), CUSAT, Kochi, Jan 2023.
   * [Artificial Intelligence and Machine Learning for Landslide Detection and Mitigation](https://iclrrildm.in/submission/), ILDM, Thiruvananthapuram, Oct 2022.
