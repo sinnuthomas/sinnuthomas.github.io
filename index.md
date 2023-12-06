@@ -23,16 +23,12 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
-* [June 2023] Paper Accepted:<br/>
-    Paper accepted in ISA Transactions.
+* [Dec 2023] Congratulations:<br/>
+    Our Alumni Rafi R got placed in Federal Bank Limited.
   
-* [May 2023] Paper Accepted:<br/>
-    Paper accepted in IEEE Transactions on Artificial Intelligence. 
-    
-* [May 2023] [PhD Openings](https://duk.ac.in/admissions2023/):<br/>
-    Currently seeking brilliant and highly motivated PhD students to join our research group. 
-
-    
+* [Nov 2023] Welcome:<br/>
+    Welcome Renij and Archana to the Group.  
+ 
     
 <br/><br/>
 <p><small>Successful and unsuccessful people do not vary greatly in their abilities.They vary in their desires to reach their potential. – John Maxwell </small></p>
