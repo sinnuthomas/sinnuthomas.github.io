@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * Can Robots Learn?, Defence Institute of Advanced Technology, Pune, Jan 2024.
   * [Conditional Generative Models in Computer Vision](https://www.youtube.com/watch?v=P5IlsOegvSU&t=33s), [TinkerHub Foundation](https://www.tinkerhub.org/gen-ai-conference), Kochi, Nov 2023.
   * [Machine Learning Optimization for Industrial Applications](https://www.tkmce.ac.in/news.php?id=95), TKM College of Engineering, Kollam, Jan 2023.
   * [Causality for Machine Learning](https://dca.cusat.ac.in/explainableaifdp/), CUSAT, Kochi, Jan 2023.
