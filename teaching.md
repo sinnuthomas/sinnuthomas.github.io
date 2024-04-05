@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+  * Deep Learning (DUK)
   * Optimization Techniques (DUK)
   * Mathematics for Computer Science (IIITMK, DUK)
   * Deep Learning & Reinforcement Learning (DUK)
