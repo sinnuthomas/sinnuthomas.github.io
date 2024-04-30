@@ -3,6 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+* **2024**
+<ol reversed>
+  <li><b>S. S. Thomas</b>; G. Lamine; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B. Blaschko, “ <a href="https://ieeexplore.ieee.org/document/10121628">Mitigating Bias in Bayesian Optimized Data while Designing MacPherson Suspension Architecture</a>,” in IEEE Transactions on Artificial Intelligence, vol. 5, no. 2, pp. 904-915, Feb 2024. [<b>Code available on request</b>]</li>
+</ol>
+
 * **2023**
 <ol reversed>
   <li>E. F. Arruda; R. e A. Alexandre; M. D. Fragoso; João B. R. do val; <b>S. S. Thomas</b>, “<a href="https://www.sciencedirect.com/science/article/pii/S0019057823002859">A Novel Queue-based Stochastic Epidemic Model with Adaptive Stabilising Control</a>,” in ISA Transactions, vol. 140, pp. 121-133, Sep 2023. </li>
