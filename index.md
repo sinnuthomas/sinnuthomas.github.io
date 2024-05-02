@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [May 2024] Tutorial at [NCVPRIPG 2024](https://ncvpripg2024.github.io/tutorials.html)<br/>
+    Tutorial on Conditional Generative Models.
+  
 * [Dec 2023] Congratulations:<br/>
     Our Alumni Rafi R got placed in Federal Bank Limited.
   
