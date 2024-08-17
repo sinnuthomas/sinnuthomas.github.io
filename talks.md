@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+  * [GenAI Advancements in Computer Vision](https://cs.cusat.ac.in/assets/pdf-files/Brochure%20for%20GEN%20AI%20WORKSHOP.pdf), CUSAT, Kochi, Aug 2024.
   * Science of Decision Making, College of Engineering, Thiruvananthapuram, Feb 2024.
   * Can Robots Learn?, Defence Institute of Advanced Technology, Pune, Jan 2024.
   * [Conditional Generative Models in Computer Vision](https://www.youtube.com/watch?v=P5IlsOegvSU&t=33s), [TinkerHub Foundation](https://www.tinkerhub.org/gen-ai-conference), Kochi, Nov 2023.
