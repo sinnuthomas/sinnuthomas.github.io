@@ -23,6 +23,12 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Aug 2024] Welcome:<br/>
+    Welcome Sanjay from IISER Thiruvanthapuram to the Group.
+  
+* [Aug 2024] Talk at [GenAI Advancements in Computer Vision](https://cs.cusat.ac.in/assets/pdf-files/Brochure%20for%20GEN%20AI%20WORKSHOP.pdf):<br/>
+    Talk on Generative Models for Computer Vision.
+
 * [May 2024] Tutorial at [NCVPRIPG 2024](https://ncvpripg2024.github.io/tutorials.html)<br/>
     Tutorial on Conditional Generative Models.
   
