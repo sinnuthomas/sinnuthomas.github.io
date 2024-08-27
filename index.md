@@ -25,6 +25,9 @@ title: Home
 ## News
 * [Aug 2024] Welcome<br/>
     Welcome Sanjay from IISER Thiruvanthapuram to the Group.
+
+* [Aug 2024] Welcome<br/>
+    Welcome Ance to the Group.
   
 * [Aug 2024] Talk at [GenAI Advancements in Computer Vision](https://cs.cusat.ac.in/assets/pdf-files/Brochure%20for%20GEN%20AI%20WORKSHOP.pdf)<br/>
     Talk on Generative Models for Computer Vision.
