@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Oct 2024] Talk at World Standards Day Manak Mahotsava 2024 <br/>
+    Talk on Machines with Plethora of Intelligence.
+  
 * [Aug 2024] Welcome<br/>
     Welcome Sanjay from IISER Thiruvanthapuram to the Group.
 
