@@ -10,7 +10,7 @@ permalink: /talks/
   * [Conditional Generative Models in Computer Vision](https://www.youtube.com/watch?v=P5IlsOegvSU&t=33s), [TinkerHub Foundation](https://www.tinkerhub.org/gen-ai-conference), Kochi, Nov 2023.
   * [Machine Learning Optimization for Industrial Applications](https://www.tkmce.ac.in/news.php?id=95), TKM College of Engineering, Kollam, Jan 2023.
   * [Causality for Machine Learning](https://dca.cusat.ac.in/explainableaifdp/), CUSAT, Kochi, Jan 2023.
-  * [Artificial Intelligence and Machine Learning for Landslide Detection and Mitigation](https://iclrrildm.in/submission/), ILDM, Thiruvananthapuram, Oct 2022.
+  * [Artificial Intelligence and Machine Learning for Landslide Detection and Mitigation](https://iclrrildm.in/submission/), Institute of Labour and Disaster Management, Thiruvananthapuram, Oct 2022.
   * Applications of Image Processing, SCMS, Ernakulam, Sep 2022.
   * [Optimization for Industrial Applications](http://www.ietetvm.org/downloads/fdp_schedule.pdf), IETE Thiruvananthapuram, Aug 2022.
   * Trail and Error based Learning at British Council sponsored Worshop, DUK, May 2022.
