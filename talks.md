@@ -3,7 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-  * Machines with Plethora of Intelligence, World Standards Day Manak Mahotsava 2024, Kochi, Oct 2024.
+  * [Machines with Plethora of Intelligence](https://www.youtube.com/watch?v=1DyUjpOxguE), World Standards Day Manak Mahotsava 2024, Kochi, Oct 2024.
   * [GenAI Advancements in Computer Vision](https://cs.cusat.ac.in/assets/pdf-files/Brochure%20for%20GEN%20AI%20WORKSHOP.pdf), CUSAT, Kochi, Aug 2024.
   * Science of Decision Making, College of Engineering, Thiruvananthapuram, Feb 2024.
   * Can Robots Learn?, Defence Institute of Advanced Technology, Pune, Jan 2024.
