@@ -23,7 +23,7 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
-[Oct 2024] Congratulations our Alumni Thomas James <br/>
+* [Oct 2024] Congratulations our Alumni Thomas James <br/>
     Paper Accepeted at NeurIPS Workshops 2024.
 
 * [Oct 2024] Talk at World Standards Day Manak Mahotsava 2024 <br/>
