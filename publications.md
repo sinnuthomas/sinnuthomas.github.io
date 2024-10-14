@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 * **2024**
 <ol reversed>
-   <li>T. James; <b>S. S. Thomas</b>, “Multi Objective Regionalized Bayesian Optimization via Entropy Search</a>,” in  	NeurIPS Workshops, 2024. </li>
+   <li>T. James; <b>S. S. Thomas</b>, “Multi Objective Regionalized Bayesian Optimization via Entropy Search,” in  	NeurIPS Workshops, 2024. </li>
   <li>R. Prakash; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2409.00779"> Unbalanced Fingerprint Classification for Hybrid Fingerprint Orientation Maps</a>,” in  	arXiv:2409.00779, 2024. [<b>Code available on request</b>]</li>
   <li><b>S. S. Thomas</b>; G. Lamine; J. Palandri; M. Lakehal-ayat; P. Chakravarty; F. Wolf-Monheim; M. B. Blaschko, “ <a href="https://ieeexplore.ieee.org/document/10121628">Mitigating Bias in Bayesian Optimized Data while Designing MacPherson Suspension Architecture</a>,” in IEEE Transactions on Artificial Intelligence, vol. 5, no. 2, pp. 904-915, Feb 2024. [<b>Code available on request</b>]</li>
 </ol>
