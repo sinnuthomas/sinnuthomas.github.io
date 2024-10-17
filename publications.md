@@ -19,6 +19,7 @@ permalink: /publications/
 
 * **2022**
 <ol reversed>
+ <li>S. Neelima; <b>S. S. Thomas</b>, “<a https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4153773"> Improvised Gender Sensitive Disaster Impact Factor for Reinforcing Disaster Resilience Network</a>,” in  	SSRN Electronic Journal, 2022.</li>  
   <li>E. F. Arruda; T. Sharma; R. e A. Alexandre; <b>S. S. Thomas</b>, “<a href="https://arxiv.org/abs/2206.13910"> Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes</a>,” in  	arXiv:2206.13910, 2022.<a href="https://github.com/Tarun-Sharma9168/Optimal_Control_And_Decision_Making">[<b>Code</b>]</a> </li>
 </ol>
 
