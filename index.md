@@ -9,7 +9,7 @@ title: Home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Image and Vision Computing Lab](https://sinnuthomas.github.io/IVC/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optimization and Machine Learning Lab](https://sinnuthomas.github.io/OML/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital University Kerala (formerly IIITM-Kerala)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technocity, Mangalapuram<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Technopark Phase IV, Mangalapuram<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PO Thonnakkal,Thiruvananthapuram<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerala 695 317 India <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91-471-2788000<br> 
