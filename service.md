@@ -3,9 +3,9 @@ layout: page
 title: Service
 permalink: /service/
 ---
-* **Faculty**
+* **Organizing Committee**
   <br/>
-  * [Sinnu Susan Thomas](https://sinnuthomas.github.io/bio/)
+  * Tutorial Chair, [NCVPRIPG 2024](https://ncvpripg2024.github.io/committee.html)
 
 * **Current Members**
   <br/>
