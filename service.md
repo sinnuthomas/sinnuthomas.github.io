@@ -33,3 +33,8 @@ permalink: /service/
 * **Other**
   <br/>
   * Member, Board of Studies, Saintgits College of Engineering, 2024-present
+ 
+* **Professional Membership**
+  <br/>
+  * Member: IEEE
+  * Life-Member: ISTE
