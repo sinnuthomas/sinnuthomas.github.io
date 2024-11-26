@@ -6,7 +6,7 @@ permalink: /service/
 * **Organizing Committee**
   <br/>
   * Tutorials Co-Chair, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics ([NCVPRIPG](https://ncvpripg2024.github.io/committee.html)), July 2024.
-
+  *
 * **Conference Review**
   <br/>
   * American Control Conference (ACC) 2023.
@@ -18,7 +18,7 @@ permalink: /service/
   * IEEE Transactions on Circuits and Systems for Video Technology
   * RAIRO - Operations Research
   * Signal, Image and Video Processing
-
+  *
 * **Institution-Building**
   <br/>
   * Chair, Women's Cell Committee, DUK, 2022-present
@@ -29,11 +29,11 @@ permalink: /service/
   * Chair, School of Computer Science and Engineering (SoCSE), 2023-2024
   * Chair, Centre for External Linkage & Collaborations. (DUK), 2021-2023
   * Member, Board of Studies, School of Computer Science and Engineering (SoCSE), 2021-present
-
+  *
 * **Other**
   <br/>
   * Member, Board of Studies, Saintgits College of Engineering, 2024-present
- 
+  * 
 * **Professional Membership**
   <br/>
   * Member: IEEE
