@@ -7,23 +7,22 @@ permalink: /service/
   <br/>
   * Tutorials Co-Chair, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics ([NCVPRIPG](https://ncvpripg2024.github.io/committee.html)), July 2024.
 
-* **Current Members**
+* **Conference Review**
   <br/>
-  * **PhD**
-    <br/>
-    * Renij Rajeev
-    * Archana Vijayan
-   
-  * **Masters**
-    <br/>
-    * 
-  
-* **Alumni**
+  * American Control Conference (ACC) 2023.
+  * IEEE Conference on Decision and Control (CDC) 2023.
+  * IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2022.
+  * 
+* **Journal Review**
   <br/>
-  * Soumya C S, DUK 2024.
-  * Thomas James, DUK 2024.
-  * Vibhu Nagrath, DUK 2024.
-  * Renij Rajeev, DUK 2023. Currently with DUK as Research Scholar. 
-  * Rohan Giriraj, IIITMK 2021. Currently with AMD as CAD Engineer. 
-  * Tarun Sharma, IIITMK 2021. Currently with Number Theory as Data Scientist.
-  * Olivi T J, IIITMK 2020. Currently with Ernst and Young as Senior Data Analyst.
+  * IEEE Transactions on Circuits and Systems for Video Technology
+  * RAIRO - Operations Research
+  * Signal, Image and Video Processing
+
+* **Institution-Building**
+  <br/>
+  * Chair, Women's Cell Committee, 2022-present
+  * Member, IQAC & Committee for Accreditation, DUK, 2023-present
+  * Member, Anti Ragging Committee DUK, 2023-present
+  * Chair, School of Computer Science and Engineering (SoCSE), 2023-2024
+  * Signal, Image and Video Processing
