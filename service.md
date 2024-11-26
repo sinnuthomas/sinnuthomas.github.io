@@ -24,8 +24,10 @@ permalink: /service/
   * Chair, Women's Cell Committee, DUK, 2022-present
   * Member, IQAC & Committee for Accreditation, DUK, 2023-present
   * Member, Anti Ragging Committee DUK, 2023-present
+  * Member, Board of Examinations DUK, 2023-present
   * Chair, School of Computer Science and Engineering (SoCSE), 2023-2024
   * Chair, Centre for External Linkage & Collaborations. (DUK), 2021-2023
+  * Member, Board of Studies, School of Computer Science and Engineering (SoCSE), 2021-present
 
 * **Other**
   <br/>
