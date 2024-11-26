@@ -5,7 +5,7 @@ permalink: /service/
 ---
 * **Organizing Committee**
   <br/>
-  * Tutorial Chair, [NCVPRIPG 2024](https://ncvpripg2024.github.io/committee.html)
+  * Tutorials Co-Chair, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics ([NCVPRIPG](https://ncvpripg2024.github.io/committee.html)), July 2024.
 
 * **Current Members**
   <br/>
