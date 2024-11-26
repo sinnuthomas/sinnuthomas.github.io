@@ -25,4 +25,4 @@ permalink: /service/
   * Member, IQAC & Committee for Accreditation, DUK, 2023-present
   * Member, Anti Ragging Committee DUK, 2023-present
   * Chair, School of Computer Science and Engineering (SoCSE), 2023-2024
-  * Signal, Image and Video Processing
+  * Chair, Centre for External Linkage & Collaborations. (DUK), 2021-2023
