@@ -5,7 +5,7 @@ title: Home
 
 <img align="left" src="sinnu1.jpg" width="220" >
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assistant Professor Grade-I<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Image and Vision Computing Lab](https://sinnuthomas.github.io/IVC/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Optimization and Machine Learning Lab](https://sinnuthomas.github.io/OML/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Digital University Kerala (formerly IIITM-Kerala)<br>
