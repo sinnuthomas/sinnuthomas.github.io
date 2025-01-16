@@ -42,4 +42,4 @@ title: Home
     Welcome Ance to the Group.
       
 <br/><br/>
-<p><small>Successful and unsuccessful people do not vary greatly in their abilities.They vary in their desires to reach their potential. – John Maxwell </small></p>
+<p><small>Service and Significance is Success. – Oprah Winfrey </small></p>
