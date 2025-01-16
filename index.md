@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Jan 2025] Welcome<br/>
+    Welcome Ardhra, Aslah, Dawn to the Group.
+  
 * [Nov 2024] Tutorial at [ICVGIP 2024](https://icvgip.in/tutorials)<br/>
     Tutorial on Causal Inference and Explainable Models for Medical Imaging.
   
@@ -37,12 +40,6 @@ title: Home
 
 * [Aug 2024] Welcome<br/>
     Welcome Ance to the Group.
-  
-* [Aug 2024] Talk at [GenAI Advancements in Computer Vision](https://cs.cusat.ac.in/assets/pdf-files/Brochure%20for%20GEN%20AI%20WORKSHOP.pdf)<br/>
-    Talk on Generative Models for Computer Vision.
-
-* [May 2024] Tutorial at [NCVPRIPG 2024](https://ncvpripg2024.github.io/tutorials.html)<br/>
-    Tutorial on Conditional Generative Models.
       
 <br/><br/>
 <p><small>Successful and unsuccessful people do not vary greatly in their abilities.They vary in their desires to reach their potential. – John Maxwell </small></p>
