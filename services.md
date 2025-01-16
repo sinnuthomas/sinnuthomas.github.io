@@ -12,7 +12,7 @@ permalink: /services/
   * American Control Conference (ACC) 2023.
   * IEEE Conference on Decision and Control (CDC) 2023.
   * IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2022.
-  * 
+
 * **Journal Review**
   <br/>
   * IEEE Transactions on Circuits and Systems for Video Technology.
