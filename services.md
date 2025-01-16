@@ -5,6 +5,7 @@ permalink: /services/
 ---
 * **Organizing Committee**
   <br/>
+  * Area Co-Chair, International Joint Conference on Neural Networks ([IJCNN](https://2025.ijcnn.org/)), July 2025.
   * Tutorials Co-Chair, National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics ([NCVPRIPG](https://ncvpripg2024.github.io/committee.html)), July 2024.
 
 * **Conference Review**
