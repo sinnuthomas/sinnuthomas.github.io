@@ -15,6 +15,7 @@ permalink: /services/
 
 * **Journal Review**
   <br/>
+  * Structural and Multidisciplinary Optimization.
   * IEEE Transactions on Circuits and Systems for Video Technology.
   * RAIRO - Operations Research.
   * Signal, Image and Video Processing.
