@@ -24,7 +24,7 @@ title: Home
 
 ## News
 * [Jan 2025] Welcome<br/>
-    Welcome Ardhra, Aslah, Dawn to the Group.
+    Welcome Ardhra, Aslah to the Group.
   
 * [Nov 2024] Tutorial at [ICVGIP 2024](https://icvgip.in/tutorials)<br/>
     Tutorial on Causal Inference and Explainable Models for Medical Imaging.
