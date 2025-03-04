@@ -13,7 +13,7 @@ Looking for enthusiastic Masters/PhD (only Regular)/PostDoc candidates to join t
    <br/><br/>
 * **Internship Positions**
   <br/><br/>
-Internship positions aim at introducing undergraduate and postgraduate students to research. The position gives you hands-on research training with various software tools.  You will be working on Computer Vision problems in the Linux platform, and using Python. Expect quick learning and hard working candidates to respond.
+Internship positions aim at introducing undergraduate and postgraduate students to research. The position gives you hands-on research training with various software tools.  You will be working on Deep Learning / Reinforcement Learning / Computer Vision / Optimization Techniques problems in the Linux platform, and using Python. Expect quick learning and hard working candidates to respond.
   * Eligibility
   <br/><br/>
   Students with a good track record completing 2nd year or completing B.Tech./B.E. 3rd year program or completing 1st year  Masters program in Mathematics/Statistics/Computer Science/Signal Processing are encouraged to apply. Students who are interested in working for more than six months are only welcome.
