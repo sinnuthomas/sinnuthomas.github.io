@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Mar 2025] Visit<br/>
+    Sinnu visited CMC Vellore to visit Department of Pathology.
+  
 * [Jan 2025] Welcome<br/>
     Welcome Ardhra, Aslah to the Group.
   
