@@ -24,7 +24,7 @@ title: Home
 
 ## News
 * [Mar 2025] Visit<br/>
-    Sinnu visited Biomedical Informatics Unit, CMC Vellore.
+    Visited Biomedical Informatics Unit, CMC Vellore.
   
 * [Jan 2025] Welcome<br/>
     Welcome Ardhra, Aslah to the Group.
