@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Apr 2025] Visit<br/>
+    Chaired Technical Sessions at [ICASSP 2025](https://2025.ieeeicassp.org/).
+  
 * [Mar 2025] Visit<br/>
     Visited Biomedical Informatics Unit, CMC Vellore.
   
