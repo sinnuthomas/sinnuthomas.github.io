@@ -14,12 +14,10 @@ permalink: /services/
   * IEEE Conference on Decision and Control (CDC) 2023.
   * IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2022.
 
-* **Journal Review**
+* **Journal Editor/Review**
   <br/>
-  * Structural and Multidisciplinary Optimization.
-  * IEEE Transactions on Circuits and Systems for Video Technology.
-  * RAIRO - Operations Research.
-  * Signal, Image and Video Processing.
+  * Associate Editor of Sadhana Journal.
+  * Reviewer of Structural and Multidisciplinary Optimization, IEEE Transactions on Circuits and Systems for Video Technology, RAIRO - Operations Research, Signal, Image and Video Processing.
 
 * **Institution-Building**
   <br/>
