@@ -23,7 +23,13 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Apr 2025] Talks<br/>
+    Research Series Talk at DUK on Generative Models.
+  
 * [Apr 2025] Visit<br/>
+    Visited NIT Calicut for National Conclave on NEP 2020.
+  
+* [Apr 2025] Services<br/>
     Chaired Technical Sessions at [ICASSP 2025](https://2025.ieeeicassp.org/).
   
 * [Mar 2025] Visit<br/>
