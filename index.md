@@ -24,7 +24,7 @@ title: Home
 
 ## News
 * [Jun 2025] Welcome<br/>
-    Welcome Muhammed Ajzal, Raihan Raheed, Rishikesh, and Satyajith N S from TKM College of Engineering to the Group.
+    Welcome Muhammed Ajzal, [Raihan Raheed](https://in.linkedin.com/in/raihan-rasheed), [Rishikesh](https://in.linkedin.com/in/rishikesh-4a99a3289), and [Satyajith N S](https://in.linkedin.com/in/sathyajith-n-s-5510a22aa) from TKM College of Engineering to the Group.
   
 * [Apr 2025] Talks<br/>
     Research Series Talk at DUK on Generative Models.
