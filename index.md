@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Jun 2025] Welcome<br/>
+    Welcome Muhammed Ajzal, Raihan Raheed, Rishikesh, and Satyajith N S from TKM College of Engineering to the Group.
+  
 * [Apr 2025] Talks<br/>
     Research Series Talk at DUK on Generative Models.
   
@@ -49,9 +52,6 @@ title: Home
   
 * [Aug 2024] Welcome<br/>
     Welcome Sanjay from IISER Thiruvanthapuram to the Group.
-
-* [Aug 2024] Welcome<br/>
-    Welcome Ance to the Group.
-      
+     
 <br/><br/>
 <p><small>Service and Significance is Success. – Oprah Winfrey </small></p>
