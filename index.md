@@ -51,7 +51,7 @@ title: Home
     Talk on Machines with Plethora of Intelligence.
   
 * [Aug 2024] Welcome<br/>
-    Welcome Sanjay from IISER Thiruvanthapuram to the Group.
+    Welcome Sanjay from IISER Thiruvanthapuram to the Group as Research Intern.
      
 <br/><br/>
 <p><small>Service and Significance is Success. – Oprah Winfrey </small></p>
