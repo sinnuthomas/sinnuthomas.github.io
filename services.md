@@ -36,5 +36,5 @@ permalink: /services/
 
 * **Professional Membership**
   <br/>
-  * Member: IEEE
+  * Senior Member: IEEE
   * Life-Member: ISTE
