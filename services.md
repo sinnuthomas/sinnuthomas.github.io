@@ -10,7 +10,7 @@ permalink: /services/
 
 * **Conference Review**
   <br/>
-  * Annual Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/)) 2025.
+  * Annual Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/)) 2026.
   * American Control Conference (ACC) 2023.
   * IEEE Conference on Decision and Control (CDC) 2023.
   * IEEE Sensor Array and Multichannel Signal Processing Workshop (SAM) 2022.
