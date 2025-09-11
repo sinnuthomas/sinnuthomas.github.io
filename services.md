@@ -17,7 +17,7 @@ permalink: /services/
 
 * **Journal Editor/Review**
   <br/>
-  * Associate Editor of Sadhana Journal (May 2025-December 2027).
+  * Associate Editor of [Sadhana Journal](https://link.springer.com/journal/12046/editorial-board) (May 2025-December 2027).
   * Reviewer of Structural and Multidisciplinary Optimization, IEEE Transactions on Circuits and Systems for Video Technology, RAIRO - Operations Research, Signal, Image and Video Processing.
 
 * **Institution-Building**
