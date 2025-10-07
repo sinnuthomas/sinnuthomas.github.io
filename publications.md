@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-* **2024**
+* **2025**
 <ol reversed>
   <li>Miguel A Solis; <b>S. S. Thomas</b>; Christian A Choque-Surco; Edgar A Taya-Acosta; Francisca Coiro G, “ <a href="https://www.mdpi.com/2227-7390/13/19/3139">Bayesian Optimization for the Synthesis of Generalized State-Feedback Controllers in Underactuated Systems</a>,” in Mathematics, vol. 13, no. 19, 2025. <a href="https://github.com/miguel-a-solis/MDPI_Mathematics_SI-2025">[<b>Code</b>]</a></li>
 </ol>
