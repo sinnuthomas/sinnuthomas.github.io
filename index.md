@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Aug 2025] Welcome<br/>
+    Welcome Sanjay M S to the Group as Research Scholar.
+  
 * [Jun 2025] Welcome<br/>
     Welcome Muhammed Ajzal, [Raihan Raheed](https://in.linkedin.com/in/raihan-rasheed), [Rishikesh](https://in.linkedin.com/in/rishikesh-4a99a3289), and [Satyajith N S](https://in.linkedin.com/in/sathyajith-n-s-5510a22aa) from TKM College of Engineering as Research Interns to the Group.
   
@@ -48,10 +51,7 @@ title: Home
     Paper Accepeted at NeurIPS Workshops 2024.
 
 * [Oct 2024] Talk at World Standards Day Manak Mahotsava 2024. <br/>
-    Talk on Machines with Plethora of Intelligence.
-  
-* [Aug 2024] Welcome<br/>
-    Welcome Sanjay from IISER Thiruvanthapuram to the Group as Research Intern.
+    Talk on Machines with Plethora of Intelligence.  
      
 <br/><br/>
 <p><small>Service and Significance is Success. – Oprah Winfrey </small></p>
