@@ -22,6 +22,7 @@ permalink: /services/
 
 * **Institution-Building**
   <br/>
+  * Chief Hostel Warden, DUK, Oct 2025 - present.
   * Chair, Women's Cell Committee, DUK, 2022-present.
   * Member, IQAC & Committee for Accreditation, DUK, 2023-present.
   * Member, Anti Ragging Committee DUK, 2023-present.
