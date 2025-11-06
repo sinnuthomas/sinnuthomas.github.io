@@ -47,14 +47,5 @@ title: Home
 * [Jan 2025] Welcome<br/>
     Welcome Ardhra, Aslah to the Group.
   
-* [Nov 2024] Tutorial at [ICVGIP 2024](https://icvgip.in/tutorials)<br/>
-    Tutorial on Causal Inference and Explainable Models for Medical Imaging.
-  
-* [Oct 2024] Congratulations our Alumni Thomas James. <br/>
-    Paper Accepeted at NeurIPS Workshops 2024.
-
-* [Oct 2024] Talk at World Standards Day Manak Mahotsava 2024. <br/>
-    Talk on Machines with Plethora of Intelligence.  
-     
 <br/><br/>
 <p><small>Service and Significance is Success. – Oprah Winfrey </small></p>
