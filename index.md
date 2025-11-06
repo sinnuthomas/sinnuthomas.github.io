@@ -23,6 +23,9 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Oct 2025] Welcome<br/>
+    Congrats Archana Vijayan, PhD Scholar for the new role as faculty in Kerala Publice Service Commission.
+  
 * [Aug 2025] Welcome<br/>
     Welcome Sanjay M S to the Group as Research Scholar.
   
