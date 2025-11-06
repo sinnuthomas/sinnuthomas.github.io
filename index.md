@@ -23,29 +23,15 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Dec 2025] Congrats<br/>
+    Speaker at [International Conference on Artificial Intelligence for Healthcare](https://aihc2025.nitc.ac.in/speakers), NIT Calicut.
+  
 * [Oct 2025] Congrats<br/>
     Congrats Archana Vijayan, PhD Scholar for the new role as faculty in Kerala Publice Service Commission.
   
 * [Aug 2025] Welcome<br/>
     Welcome Sanjay M S to the Group as Research Scholar.
   
-* [Jun 2025] Welcome<br/>
-    Welcome Muhammed Ajzal, [Raihan Raheed](https://in.linkedin.com/in/raihan-rasheed), [Rishikesh](https://in.linkedin.com/in/rishikesh-4a99a3289), and [Satyajith N S](https://in.linkedin.com/in/sathyajith-n-s-5510a22aa) from TKM College of Engineering as Research Interns to the Group.
-  
-* [Apr 2025] Talks<br/>
-    Research Series Talk at DUK on Generative Models.
-  
-* [Apr 2025] Visit<br/>
-    Visited NIT Calicut for National Conclave on NEP 2020.
-  
-* [Apr 2025] Services<br/>
-    Chaired Technical Sessions at [ICASSP 2025](https://2025.ieeeicassp.org/).
-  
-* [Mar 2025] Visit<br/>
-    Visited Biomedical Informatics Unit, CMC Vellore.
-  
-* [Jan 2025] Welcome<br/>
-    Welcome Ardhra, Aslah to the Group.
   
 <br/><br/>
 <p><small>Service and Significance is Success. – Oprah Winfrey </small></p>
