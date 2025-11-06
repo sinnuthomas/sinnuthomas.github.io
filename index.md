@@ -24,7 +24,7 @@ title: Home
 
 ## News
 * [Dec 2025] Congrats<br/>
-    Speaker at [International Conference on Artificial Intelligence for Healthcare](https://aihc2025.nitc.ac.in/speakers), NIT Calicut.
+    Speaker at [International Conference on Artificial Intelligence for Healthcare](https://aihc2025.nitc.ac.in/speakers)(AIHC 2025), NIT Calicut.
   
 * [Oct 2025] Congrats<br/>
     Congrats Archana Vijayan, PhD Scholar for the new role as faculty in Kerala Publice Service Commission.
