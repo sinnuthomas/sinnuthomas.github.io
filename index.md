@@ -23,7 +23,7 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
-* [Dec 2025] Congrats<br/>
+* [Dec 2025] Talks<br/>
     Speaker at [International Conference on Artificial Intelligence for Healthcare](https://aihc2025.nitc.ac.in/speakers) (AIHC 2025), NIT Calicut.
   
 * [Oct 2025] Congrats<br/>
