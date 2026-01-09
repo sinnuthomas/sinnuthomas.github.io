@@ -24,17 +24,18 @@ permalink: /services/
 * **Institution-Building**
   <br/>
   * Chief Hostel Warden, DUK, Oct 2025 - present.
-  * Chair, Women's Cell Committee, DUK, 2022-present.
-  * Member, IQAC & Committee for Accreditation, DUK, 2023-present.
-  * Member, Anti Ragging Committee DUK, 2023-present.
+  * Chair, Women's Cell Committee, DUK, 2022-2025.
+  * Member, IQAC & Committee for Accreditation, DUK, 2023-2025.
+  * Member, Anti Ragging Committee DUK, 2023-2025.
   * Member, Board of Examinations DUK, 2023-present.
-  * Member, Convocation Committee DUK, 2023-present.
+  * Member, Convocation Committee DUK, 2023-2025.
   * Chair, School of Computer Science and Engineering (SoCSE), 2023-2024.
   * Chair, Centre for External Linkage & Collaborations. (DUK), 2021-2023.
   * Member, Board of Studies, School of Computer Science and Engineering (SoCSE), 2021-present.
 
 * **Other**
   <br/>
+  * Member, Pass Board, Saintgits College of Engineering, 2025-present
   * Member, Board of Studies, Saintgits College of Engineering, 2024-present.
 
 * **Professional Membership**
