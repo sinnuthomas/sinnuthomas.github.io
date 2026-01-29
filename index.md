@@ -23,7 +23,7 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
-* [Jan 2026] Congrats<br/>
+* [Jan 2026] Welcome<br/>
     Welcome Ananth Sankar, Anjana S Arjunan, Johann James, Sruthi Krishna M, Abduk Kalam K H, Amal Prasad to the Group.
   
 * [Oct 2025] Congrats<br/>
