@@ -39,6 +39,7 @@ permalink: /services/
   <br/>
   * Member, Pass Board, Saintgits College of Engineering, 2025-present
   * Member, Board of Studies, Saintgits College of Engineering, 2024-present.
+  * IIT KANPUR Alumni Association Kerala Chapter President, 2024-present.
 
 * **Professional Membership**
   <br/>
