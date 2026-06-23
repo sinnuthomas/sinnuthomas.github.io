@@ -26,7 +26,7 @@ title: Home
 * [Jun 2026] Congrats<br/>
     Congrats Ananth Sankar on defending his project and taking new role at IBS Software.
   
-* [Aug 2025] Welcome<br/>
+* [May 2026] Welcome<br/>
     Welcome Keerthana K R from TKMCE to the Group as Intern.  
   
 * [Jan 2026] Welcome<br/>
