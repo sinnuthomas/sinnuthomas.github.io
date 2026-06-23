@@ -23,15 +23,17 @@ title: Home
 * [Machine](https://en.wikipedia.org/wiki/Machine_learning) / [Deep](https://en.wikipedia.org/wiki/Deep_learning) /  [Reinforcement](https://en.wikipedia.org/wiki/Reinforcement_learning) Learning  
 
 ## News
+* [Jun 2026] Congrats<br/>
+    Congrats Ananth Sankar on defending his project and taking new role at IBS Software.
+  
+* [Aug 2025] Welcome<br/>
+    Welcome Keerthana K R from TKMCE to the Group as Intern.  
+  
 * [Jan 2026] Welcome<br/>
     Welcome Ananth Sankar, Anjana S Arjunan, Johann James, Sruthi Krishna M, Abduk Kalam K H, Amal Prasad to the Group.
   
 * [Oct 2025] Congrats<br/>
     Congrats Archana Vijayan, PhD Scholar for the new role as faculty in Kerala Publice Service Commission.
-  
-* [Aug 2025] Welcome<br/>
-    Welcome Sanjay M S to the Group as Research Scholar.
-  
   
 <br/><br/>
 <p><small>Service and Significance is Success. – Oprah Winfrey </small></p>
