@@ -13,7 +13,6 @@ permalink: /services/
 * **Conference Review**
   <br/>
   * Annual Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-27/)) 2027.
-  * American Control Conference (ACC) 2023.
   * International Conference on Artificial Intelligence and Statistics ([AISTATS](https://aistats.org/aistats2026//)) 2026.
   * Annual Conference on Artificial Intelligence ([AAAI](https://aaai.org/conference/aaai/aaai-26/)) 2026.
   * American Control Conference (ACC) 2023.
