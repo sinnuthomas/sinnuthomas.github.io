@@ -5,6 +5,7 @@ permalink: /services/
 ---
 * **Organizing Committee**
   <br/>
+  * TPC Member, IEEE Sponsored 8th International Conference on Innovative Trends in Information Technology ([ICITIIT](https://icitiit27.iiitkottayam.ac.in/)), February 2027.
   * Area Chair, IEEE World Congress on Computational Intelligence ([WCCI](https://attend.ieee.org/wcci-2026/)), June 2026.
   * Area Co-Chair, International Joint Conference on Neural Networks ([IJCNN](https://2025.ijcnn.org/)), July 2025.
   * Area Co-Chair, IEEE International Conference on Acoustics, Speech, and Signal Processing ([ICASSP](https://2025.ieeeicassp.org/#)), April 2025.
